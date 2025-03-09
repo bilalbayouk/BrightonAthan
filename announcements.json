@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "title": "Taraweeh Prayer Times",
-        "message": "Al Medinah Mosque:\n1st - Immediately after Isha | 2nd - 9:30pm\n\nThe masjid will pray 10 rakats followed by 3 rakats for Shafa and Witr"
+        "title": "Taraweeh Prayer Times:",
+        "message": ""
     },
     {
         "id": "2",
@@ -11,7 +11,7 @@
     },
     {
         "id": "3",
-        "title": "Eid Salah Timings",
-        "message": "Eid prayer at Al Medinah Mosque:\n\n7:30 AM & 9:00 AM"
+        "title": "Al Medinah Mosque",
+        "message": "1st - Immediately after Isha | 2nd - 9:30pm\n\nThe masjid will pray 10 rakats followed by 3 rakats for Shafa and Witr"
     }
 ]
