@@ -1,0 +1,36 @@
+{
+  "AlMedinah": {
+    "2025-03-01": {
+      "Fajr": ["5:11 AM", "5:30 AM"],
+      "Dhuhr": ["12:18 PM", "12:30 PM"],
+      "Asr": ["3:05 PM", "4:00 PM"],
+      "Maghrib": ["5:44 PM", "5:44 PM"],
+      "Isha": ["7:04 PM", "7:30 PM"]
+    },
+    "2025-03-02": {
+      "Fajr": ["5:09 AM", "5:30 AM"],
+      "Dhuhr": ["12:18 PM", "12:30 PM"],
+      "Asr": ["3:06 PM", "4:00 PM"],
+      "Maghrib": ["5:46 PM", "5:46 PM"],
+      "Isha": ["7:05 PM", "7:30 PM"]
+    }
+    // Add more dates and times as needed
+  },
+  "AlQuds": {
+    "2025-03-01": {
+      "Fajr": ["5:10 AM", "5:20 AM"],
+      "Dhuhr": ["12:18 PM", "12:45 PM"],
+      "Asr": ["3:06 PM", "3:30 PM"],
+      "Maghrib": ["5:45 PM", "5:49 PM"],
+      "Isha": ["7:04 PM", "8:00 PM"]
+    },
+    "2025-03-02": {
+      "Fajr": ["5:08 AM", "5:18 AM"],
+      "Dhuhr": ["12:18 PM", "12:45 PM"],
+      "Asr": ["3:07 PM", "3:30 PM"],
+      "Maghrib": ["5:47 PM", "5:51 PM"],
+      "Isha": ["7:05 PM", "8:00 PM"]
+    }
+    // Add more dates and times as needed
+  }
+}
