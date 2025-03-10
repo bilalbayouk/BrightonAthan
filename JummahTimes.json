@@ -2,11 +2,11 @@
   "AlMedinah": {
     "jummah": [
       {
-        "name": "1st Jummah",
+        "name": "1st",
         "time": "12:20 PM"
       },
       {
-        "name": "2nd Jummah",
+        "name": "2nd",
         "time": "1:10 PM"
       }
     ]
