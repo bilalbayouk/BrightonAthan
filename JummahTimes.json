@@ -1,8 +1,22 @@
 {
   "AlMedinah": {
-    "JummahTimes": ["12:20 PM", "01:10 PM"]
+    "jummah": [
+      {
+        "name": "1st Jummah",
+        "time": "12:20 PM"
+      },
+      {
+        "name": "2nd Jummah",
+        "time": "1:10 PM"
+      }
+    ]
   },
   "AlQuds": {
-    "JummahTimes": ["12:30 PM"]
+    "jummah": [
+      {
+        "name": "1st Jummah",
+        "time": "12:30 PM"
+      }
+    ]
   }
 }
