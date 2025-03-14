@@ -1,16 +1,21 @@
 [
     {
         "id": "1",
+        "title": "NOTIFICATIONS",
+        "message": "We are aware of an issue where notifications stop working each day. We are working to fix this."
+    }
+    {
+        "id": "2",
         "title": "Taraweeh Prayer Times:",
         "message": "Down below👇"
     },
     {
-        "id": "2",
+        "id": "3",
         "title": "Al Quds Mosque",
         "message": "Prayer starts immediately after Isha\n\nThe masjid will pray 8 rakats followed by 3 rakats"
     },
     {
-        "id": "3",
+        "id": "4",
         "title": "Al Medinah Mosque",
         "message": "1st - Immediately after Isha | 2nd - 9:30pm\n\nThe masjid will pray 10 rakats followed by 3 rakats"
     }
