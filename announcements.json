@@ -1,8 +1,13 @@
 [
     {
-        "id": "2",
+        "id": "1",
         "title": "Taraweeh Prayer Times:",
         "message": "Down below👇"
+    },
+    {
+        "id": "2",
+        "title": "Al Medinah Mosque",
+        "message": "1st - Immediately after Isha | 2nd - 9:30pm\n\nThe masjid will pray 10 rakats followed by 3 rakats"
     },
     {
         "id": "3",
@@ -11,7 +16,7 @@
     },
     {
         "id": "4",
-        "title": "Al Medinah Mosque",
-        "message": "1st - Immediately after Isha | 2nd - 9:30pm\n\nThe masjid will pray 10 rakats followed by 3 rakats"
+        "title": "Sussex Uni Mosque",
+        "message": "Prayer starts immediately after Isha"
     }
 ]
