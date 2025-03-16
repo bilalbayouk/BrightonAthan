@@ -18,5 +18,17 @@
         "time": "12:30 PM"
       }
     ]
+  },
+  "SussexUni": {
+    "jummah": [
+      {
+        "name": "1st",
+        "time": "12:20 PM"
+      },
+      {
+        "name": "2nd",
+        "time": "1:05 PM"
+      }
+    ]
   }
 }
