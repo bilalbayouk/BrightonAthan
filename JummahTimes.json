@@ -30,5 +30,17 @@
         "time": "1:05 PM"
       }
     ]
+  },
+  "Worthing": {
+    "jummah": [
+      {
+        "name": "1st",
+        "time": "12:45 PM"
+      },
+      {
+        "name": "2nd",
+        "time": "1:20 PM"
+      }
+    ]
   }
 }
