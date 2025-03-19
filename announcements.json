@@ -18,5 +18,10 @@
         "id": "4",
         "title": "Sussex Uni Mosque",
         "message": "Prayer starts immediately after Isha"
+    },
+    {
+        "id": "5",
+        "title": "Worthing Mosque",
+        "message": "1st - Immediately after Isha | 2nd - 11.00pm on Sun to Thurs and 11.30pm on Fri and Sat."
     }
 ]
