@@ -3,11 +3,11 @@
     "jummah": [
       {
         "name": "1st",
-        "time": "12:20 PM"
+        "time": "1:20 PM"
       },
       {
         "name": "2nd",
-        "time": "1:10 PM"
+        "time": "2:10 PM"
       }
     ]
   },
@@ -15,7 +15,7 @@
     "jummah": [
       {
         "name": "1st Jummah",
-        "time": "12:30 PM"
+        "time": "1:30 PM"
       }
     ]
   },
@@ -23,11 +23,11 @@
     "jummah": [
       {
         "name": "1st",
-        "time": "12:20 PM"
+        "time": "1:20 PM"
       },
       {
         "name": "2nd",
-        "time": "1:05 PM"
+        "time": "2:05 PM"
       }
     ]
   },
