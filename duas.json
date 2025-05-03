@@ -1,0 +1,26 @@
+[
+    {
+        "when": "Upon entering the home:",
+        "arabic": "بسم الله ولجنا، وبسم الله خرجنا، وعلى ربنا توكلنا",
+        "transliteration": "Bismillahi walajna, wa bismillahi kharajna, wa ‘ala Rabbina tawakkalna",
+        "english": "In the name of Allah we enter, and in the name of Allah we leave, and upon our Lord we place our trust."
+    },
+    {
+        "when": "After completing the prayer:",
+        "arabic": "اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام",
+        "transliteration": "Allahumma anta as-salam wa minka as-salam tabarakta ya dhal-jalali wal-ikram",
+        "english": "O Allah, You are Peace, and from You comes peace. Blessed are You, O Possessor of majesty and honor."
+    },
+    {
+        "when": "When leaving the home:",
+        "arabic": "بسم الله توكلت على الله ولا حول ولا قوة إلا بالله",
+        "transliteration": "Bismillah, tawakkaltu ‘ala Allah, wa la hawla wa la quwwata illa billah",
+        "english": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah."
+    },
+    {
+        "when": "When feeling distressed:",
+        "arabic": "حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم",
+        "transliteration": "Hasbiyallahu la ilaha illa Huwa ‘alayhi tawakkaltu wa Huwa Rabbul ‘arshil ‘adheem",
+        "english": "Allah is sufficient for me; there is no god but He. On Him I rely, and He is the Lord of the Mighty Throne."
+    }
+]
