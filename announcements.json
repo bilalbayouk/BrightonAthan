@@ -16,6 +16,7 @@
             "fontName": "Helvetica"
         },
         "layout": "highlighted",
-        "backgroundColor": "#40C4FF"
+        "backgroundColor": "#40C4FF",
+        "footerMessage": "Check back for more updates!"
     }
 ]
