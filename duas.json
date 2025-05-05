@@ -274,5 +274,305 @@
         "arabic": "أَعُوذُ بِٱللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
         "transliteration": "A‘udhu billahi wa qudratihi min sharri ma ajidu wa uhadhir",
         "english": "I seek refuge in Allah and His power from the evil of what I feel and fear."
+    },
+    {
+        "when": "For protection from all evil:",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+        "transliteration": "Allahumma ihfazni min bayni yadayya wa min khalfi wa ‘an yamini wa ‘an shimali wa min fawqi wa a‘udhu bi‘azamatika an ughtala min tahti",
+        "english": "O Allah, protect me from in front of me, from behind me, from my right, from my left, from above me, and I seek refuge in Your greatness from being taken unawares from below me."
+    },
+    {
+        "when": "For forgiveness and mercy:",
+        "arabic": "ٱللَّهُمَّ ٱغْفِرْ لِي ذَنْبِي كُلَّهُ دِقَّهُ وَجِلَّهُ وَأَوَّلَهُ وَآخِرَهُ وَعَلَانِيَتَهُ وَسِرَّهُ",
+        "transliteration": "Allahummaghfir li dhanbi kullahu diqqahu wa jillahu wa awwalahu wa akhirahu wa ‘alaniyatahu wa sirrahu",
+        "english": "O Allah, forgive me all my sins, the small and the great, the first and the last, the open and the secret."
+    },
+    {
+        "when": "For steadfastness in faith:",
+        "arabic": "ٱللَّهُمَّ يَا مُقَلِّبَ ٱلْقُلُوبِ ثَبِّتْ قَلْبِي عَلَىٰ دِينِكَ",
+        "transliteration": "Allahumma ya muqallibal-qulubi thabbit qalbi ‘ala deenik",
+        "english": "O Allah, O Turner of hearts, make my heart firm upon Your religion."
+    },
+    {
+        "when": "For protection from Hellfire:",
+        "arabic": "ٱللَّهُمَّ أَجِرْنِي مِنَ ٱلنَّارِ",
+        "transliteration": "Allahumma ajirni minan-nar",
+        "english": "O Allah, save me from the Fire."
+    },
+    {
+        "when": "For entering Jannah (Paradise):",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ ٱلْجَنَّةَ وَأَعُوذُ بِكَ مِنَ ٱلنَّارِ",
+        "transliteration": "Allahumma inni as’alukal-jannata wa a‘udhu bika minan-nar",
+        "english": "O Allah, I ask You for Paradise and seek refuge in You from the Fire."
+    },
+    {
+        "when": "For guidance and righteousness:",
+        "arabic": "ٱللَّهُمَّ ٱهْدِنِي وَسَدِّدْنِي",
+        "transliteration": "Allahumma ihdini wa saddidni",
+        "english": "O Allah, guide me and make me upright."
+    },
+    {
+        "when": "For good character:",
+        "arabic": "ٱللَّهُمَّ أَحْسَنْتَ خَلْقِي فَأَحْسِنْ خُلُقِي",
+        "transliteration": "Allahumma ahsanta khalqi fa ahsin khuluqi",
+        "english": "O Allah, You have perfected my creation, so perfect my character."
+    },
+    {
+        "when": "For protection from trials:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ ٱلْمَحْيَا وَٱلْمَمَاتِ",
+        "transliteration": "Allahumma inni a‘udhu bika min fitnatil-mahya wal-mamat",
+        "english": "O Allah, I seek refuge in You from the trials of life and death."
+    },
+    {
+        "when": "For relief from debt:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْهَمِّ وَٱلْحَزَنِ وَأَعُوذُ بِكَ مِنَ ٱلْعَجْزِ وَٱلْكَسَلِ وَأَعُوذُ بِكَ مِنَ ٱلْجُبْنِ وَٱلْبُخْلِ وَأَعُوذُ بِكَ مِنْ غَلَبَةِ ٱلدَّيْنِ وَقَهْرِ ٱلرِّجَالِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-hammi wal-hazan, wa a‘udhu bika minal-‘ajzi wal-kasal, wa a‘udhu bika minal-jubni wal-bukhl, wa a‘udhu bika min ghalabatid-dayni wa qahrir-rijal",
+        "english": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, cowardice and miserliness, and from being overcome by debt and the oppression of men."
+    },
+    {
+        "when": "For patience and reward:",
+        "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ ٱللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+        "transliteration": "Inna lillahi wa inna ilayhi raji‘un, Allahumma ajurni fi musibati wa akhlif li khayran minha",
+        "english": "Indeed, to Allah we belong and to Him we shall return. O Allah, reward me for my affliction and replace it with something better."
+    },
+    {
+        "when": "For acceptance of deeds:",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ عَمَلِي صَالِحًا وَٱجْعَلْهُ لَكَ خَالِصًا وَلَا تَجْعَلْ لِأَحَدٍ فِيهِ شَيْئًا",
+        "transliteration": "Allahummaj‘al ‘amali salihan waj‘alhu laka khalisan wala taj‘al li’ahadin fihi shay’an",
+        "english": "O Allah, make my deeds righteous, make them sincere for You, and do not let anyone have a share in them."
+    },
+    {
+        "when": "For protection from hypocrisy:",
+        "arabic": "ٱللَّهُمَّ طَهِّرْ قَلْبِي مِنَ ٱلنِّفَاقِ وَعَمَلِي مِنَ ٱلرِّيَاءِ",
+        "transliteration": "Allahumma tahhir qalbi minan-nifaqi wa ‘amali minar-riya’",
+        "english": "O Allah, purify my heart from hypocrisy and my actions from showing off."
+    },
+    {
+        "when": "For a good end:",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ خَيْرَ عُمْرِي آخِرَهُ وَخَيْرَ عَمَلِي خَوَاتِيمَهُ وَخَيْرَ أَيَّامِي يَوْمَ أَلْقَاكَ",
+        "transliteration": "Allahummaj‘al khayra ‘umri akhirahu wa khayra ‘amali khawatimahu wa khayra ayyami yawma alqak",
+        "english": "O Allah, make the best part of my life its end, the best of my deeds their conclusion, and the best of my days the day I meet You."
+    },
+    {
+        "when": "For blessings in sustenance:",
+        "arabic": "ٱللَّهُمَّ ٱكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "transliteration": "Allahummakfini bihalalika ‘an haramik, wa aghnini bifadlika ‘amman siwak",
+        "english": "O Allah, suffice me with Your lawful provision against Your forbidden, and make me independent of all besides You by Your grace."
+    },
+    {
+        "when": "For protection from oppression:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلظُّلْمِ وَٱلْمَظْلُومِ",
+        "transliteration": "Allahumma inni a‘udhu bika minadh-dhulmi wal-madhlum",
+        "english": "O Allah, I seek refuge in You from oppressing or being oppressed."
+    },
+    {
+        "when": "For a righteous spouse:",
+        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي زَوْجًا صَالِحًا يُعِينُنِي عَلَىٰ طَاعَتِكَ",
+        "transliteration": "Allahummarzuqni zawjan salihan yu‘inuni ‘ala ta‘atik",
+        "english": "O Allah, grant me a righteous spouse who helps me in obeying You."
+    },
+    {
+        "when": "For righteous children:",
+        "arabic": "رَبِّ هَبْ لِي مِنَ ٱلصَّالِحِينَ",
+        "transliteration": "Rabbi hab li minas-salihin",
+        "english": "My Lord, grant me from among the righteous."
+    },
+    {
+        "when": "For protection from laziness:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْعَجْزِ وَٱلْكَسَلِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-‘ajzi wal-kasal",
+        "english": "O Allah, I seek refuge in You from incapacity and laziness."
+    },
+    {
+        "when": "For victory over enemies:",
+        "arabic": "ٱللَّهُمَّ ٱنْصُرْنِي عَلَىٰ مَنْ ظَلَمَنِي",
+        "transliteration": "Allahumma ansurni ‘ala man dhalamani",
+        "english": "O Allah, grant me victory over those who oppress me."
+    },
+    {
+        "when": "For protection from poverty:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْفَقْرِ وَٱلْقِلَّةِ وَٱلذِّلَّةِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-faqri wal-qillati wadh-dhillah",
+        "english": "O Allah, I seek refuge in You from poverty, scarcity, and humiliation."
+    },
+    {
+        "when": "For ease in affairs:",
+        "arabic": "ٱللَّهُمَّ يَسِّرْ لِي أَمْرِي وَٱفْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "transliteration": "Allahumma yassir li amri waftah li abwaba rahmatik",
+        "english": "O Allah, make my affairs easy and open for me the doors of Your mercy."
+    },
+    {
+        "when": "For protection from envy:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْحَسَدِ وَٱلْحَاسِدِينَ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-hasad wal-hasidin",
+        "english": "O Allah, I seek refuge in You from envy and the envious."
+    },
+    {
+        "when": "For contentment:",
+        "arabic": "ٱللَّهُمَّ قَنِّعْنِي بِمَا رَزَقْتَنِي وَبَارِكْ لِي فِيهِ",
+        "transliteration": "Allahumma qanni‘ni bima raziqtani wa barik li fih",
+        "english": "O Allah, make me content with what You have provided me and bless me in it."
+    },
+    {
+        "when": "For protection from disease:",
+        "arabic": "ٱللَّهُمَّ عَافِنِي فِي بَدَنِي وَعَافِنِي فِي سَمْعِي وَعَافِنِي فِي بَصَرِي",
+        "transliteration": "Allahumma ‘afini fi badani wa ‘afini fi sam‘i wa ‘afini fi basari",
+        "english": "O Allah, grant me health in my body, my hearing, and my sight."
+    },
+    {
+        "when": "For strength in worship:",
+        "arabic": "ٱللَّهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "transliteration": "Allahumma a‘inni ‘ala dhikrika wa shukrika wa husni ‘ibadatik",
+        "english": "O Allah, help me to remember You, to be grateful to You, and to worship You in the best manner."
+    },
+    {
+        "when": "For seeking Allah’s pleasure:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ رِضَاكَ وَٱلْجَنَّةَ",
+        "transliteration": "Allahumma inni as’aluka ridaka wal-jannah",
+        "english": "O Allah, I ask You for Your pleasure and Paradise."
+    },
+    {
+        "when": "For protection from arrogance:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْكِبْرِ وَٱلْعُجْبِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-kibr wal-‘ujb",
+        "english": "O Allah, I seek refuge in You from arrogance and self-admiration."
+    },
+    {
+        "when": "For a sound heart:",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ قَلْبِي سَلِيمًا مِنْ كُلِّ دَاءٍ",
+        "transliteration": "Allahummaj‘al qalbi saliman min kulli da’",
+        "english": "O Allah, make my heart sound from every disease."
+    },
+    {
+        "when": "For protection from betrayal:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْخِيَانَةِ وَٱلْمَخَادِعِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-khiyanati wal-makhadi‘",
+        "english": "O Allah, I seek refuge in You from betrayal and deceit."
+    },
+    {
+        "when": "For protection from slander:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْبُهْتَانِ وَٱلْفِرْيَةِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-buhtani wal-firyah",
+        "english": "O Allah, I seek refuge in You from slander and false accusations."
+    },
+    {
+        "when": "For a blessed family:",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ أَهْلِي وَوَلَدِي مِنَ ٱلصَّالِحِينَ",
+        "transliteration": "Allahummaj‘al ahli wa waladi minas-salihin",
+        "english": "O Allah, make my family and children among the righteous."
+    },
+    {
+        "when": "For protection from despair:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْيَأْسِ وَٱلْقُنُوطِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-ya’si wal-qunut",
+        "english": "O Allah, I seek refuge in You from despair and hopelessness."
+    },
+    {
+        "when": "For knowledge and wisdom:",
+        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي عِلْمًا نَافِعًا وَحِكْمَةً بَالِغَةً",
+        "transliteration": "Allahummarzuqni ‘ilman nafi‘an wa hikmatan balighah",
+        "english": "O Allah, grant me beneficial knowledge and profound wisdom."
+    },
+    {
+        "when": "For protection from whispers of Shaytan:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ هَمَزَاتِ ٱلشَّيَاطِينِ",
+        "transliteration": "Allahumma inni a‘udhu bika min hamazatish-shayatin",
+        "english": "O Allah, I seek refuge in You from the whispers of the devils."
+    },
+    {
+        "when": "For a blessed home:",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ بَيْتِي مَسْكَنًا طَيِّبًا وَرِزْقًا وَاسِعًا",
+        "transliteration": "Allahummaj‘al bayti maskanan tayyiban wa rizqan wasi‘an",
+        "english": "O Allah, make my home a pure dwelling and grant me abundant provision."
+    },
+    {
+        "when": "For gratitude and contentment:",
+        "arabic": "ٱللَّهُمَّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِي أَنْعَمْتَ عَلَيَّ",
+        "transliteration": "Allahumma awzi‘ni an ashkura ni‘mataka allati an‘amta ‘alayya",
+        "english": "O Allah, inspire me to be grateful for the blessings You have bestowed upon me."
+    },
+    {
+        "when": "For protection from calamity:",
+        "arabic": "ٱللَّهُمَّ ٱصْرِفْ عَنِّي ٱلْبَلَاءَ وَٱلشَّقَاءَ",
+        "transliteration": "Allahummasrif ‘anni al-bala’a wash-shaqqa’",
+        "english": "O Allah, avert from me calamity and misery."
+    },
+    {
+        "when": "For increase in faith:",
+        "arabic": "ٱللَّهُمَّ زِدْنِي إِيمَانًا وَيَقِينًا",
+        "transliteration": "Allahumma zidni imanan wa yaqinan",
+        "english": "O Allah, increase me in faith and certainty."
+    },
+    {
+        "when": "For protection from bad company:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ صُحْبَةِ ٱلسُّوءِ",
+        "transliteration": "Allahumma inni a‘udhu bika min suhbati as-su’",
+        "english": "O Allah, I seek refuge in You from bad company."
+    },
+    {
+        "when": "For a good reputation:",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ لِي لِسَانَ صِدْقٍ فِي ٱلنَّاسِ",
+        "transliteration": "Allahummaj‘al li lisana sidqin fin-nas",
+        "english": "O Allah, grant me a truthful reputation among people."
+    },
+    {
+        "when": "For protection from greed:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلشُّحِّ وَٱلطَّمَعِ",
+        "transliteration": "Allahumma inni a‘udhu bika minash-shuhhi wat-tama‘",
+        "english": "O Allah, I seek refuge in You from greed and avarice."
+    },
+    {
+        "when": "For a blessed day:",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ يَوْمِي هَٰذَا يَوْمًا مُبَارَكًا",
+        "transliteration": "Allahummaj‘al yawmi hadha yawman mubarakan",
+        "english": "O Allah, make this day of mine a blessed day."
+    },
+    {
+        "when": "For protection from ignorance:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْجَهْلِ وَٱلضَّلَالِ",
+        "transliteration": "Allahumma inni a‘udhu bika minal-jahli wad-dalal",
+        "english": "O Allah, I seek refuge in You from ignorance and misguidance."
+    },
+    {
+        "when": "For a sound mind:",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْ عَقْلِي وَدِينِي",
+        "transliteration": "Allahumma ihfaz ‘aqli wa dini",
+        "english": "O Allah, protect my mind and my religion."
+    },
+    {
+        "when": "For protection from harm of enemies:",
+        "arabic": "ٱللَّهُمَّ ٱكْفِنِي شَرَّ أَعْدَائِي",
+        "transliteration": "Allahummakfini sharra a‘da’i",
+        "english": "O Allah, suffice me against the evil of my enemies."
+    },
+    {
+        "when": "For seeking Allah’s mercy:",
+        "arabic": "ٱللَّهُمَّ ٱرْحَمْنِي بِرَحْمَتِكَ ٱلَّتِي وَسِعَتْ كُلَّ شَيْءٍ",
+        "transliteration": "Allahummarhamni birahmatika allati wasi‘at kulla shay’",
+        "english": "O Allah, have mercy on me with Your mercy that encompasses all things."
+    },
+    {
+        "when": "For a blessed livelihood:",
+        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي مَعِيشَةً طَيِّبَةً وَعَمَلًا مُتَقَبَّلًا",
+        "transliteration": "Allahummarzuqni ma‘ishatan tayyibatan wa ‘amalan mutaqabbala",
+        "english": "O Allah, grant me a pure livelihood and accepted deeds."
+    },
+    {
+        "when": "For protection from sudden death:",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ مَوْتِ ٱلْفَجْأَةِ",
+        "transliteration": "Allahumma inni a‘udhu bika min mawtil-faj’ah",
+        "english": "O Allah, I seek refuge in You from sudden death."
+    },
+    {
+        "when": "For a safe journey:",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي فِي سَفَرِي وَٱرْزُقْنِي ٱلسَّلَامَةَ",
+        "transliteration": "Allahumma ihfazni fi safari warzuqni as-salamah",
+        "english": "O Allah, protect me during my journey and grant me safety."
+    },
+    {
+        "when": "For protection from black magic:",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي مِنَ ٱلسِّحْرِ وَٱلشَّرِّ",
+        "transliteration": "Allahumma ihfazni minas-sihr wash-sharr",
+        "english": "O Allah, protect me from black magic and evil."
     }
 ]
