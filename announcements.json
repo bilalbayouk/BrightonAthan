@@ -2,7 +2,7 @@
     {
         "id": "default-1",
         "title": "No Announcements Yet",
-        "message": "Stay tuned for updates from your community! Check back soon for events, prayers, and more.",
+        "message": "Stay tuned for updates from your community!",
         "titleStyle": {
             "textColor": "#006400",
             "fontSize": 18,
