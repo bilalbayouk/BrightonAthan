@@ -1,12 +1,56 @@
 [
     {
         "id": "1",
-        "title": "Al Medinah Mosque",
-        "message": "No new announcements"
+        "title": "Community Event",
+        "message": "Join us for a community iftar this Friday at Al Medinah Mosque.",
+        "titleStyle": {
+            "textColor": "#006400",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "fontName": "Helvetica"
+        },
+        "messageStyle": {
+            "textColor": "#333333",
+            "fontSize": 14,
+            "fontWeight": "regular",
+            "fontName": "Helvetica"
+        },
+        "layout": "standard"
     },
     {
         "id": "2",
-        "title": "Al Quds Mosque",
-        "message": "No new announcements"
+        "title": "Eid Prayer",
+        "message": "Eid prayers will be held at 8 AM and 10 AM.",
+        "titleStyle": {
+            "textColor": "#FFD700",
+            "fontSize": 18,
+            "fontWeight": "semibold",
+            "fontName": null
+        },
+        "messageStyle": {
+            "textColor": "#FFFFFF",
+            "fontSize": 12,
+            "fontWeight": "medium",
+            "fontName": null
+        },
+        "layout": "highlighted"
+    },
+    {
+        "id": "3",
+        "title": "Quick Update",
+        "message": "New prayer mats available.",
+        "titleStyle": {
+            "textColor": "#0000FF",
+            "fontSize": 14,
+            "fontWeight": "medium",
+            "fontName": "Arial"
+        },
+        "messageStyle": {
+            "textColor": "#000000",
+            "fontSize": 14,
+            "fontWeight": "regular",
+            "fontName": "Arial"
+        },
+        "layout": "compact"
     }
 ]
