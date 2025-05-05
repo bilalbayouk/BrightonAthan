@@ -16,7 +16,6 @@
             "fontName": "Helvetica"
         },
         "layout": "highlighted",
-        "backgroundColor": "#40C4FF",
-        "footerMessage": "Check back soon for events, prayers, and more!"
+        "backgroundColor": "#40C4FF"
     }
 ]
