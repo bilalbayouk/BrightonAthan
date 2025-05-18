@@ -1,62 +1,62 @@
 [
     {
         "completionMessage": "All prayers completed for today!",
-        "partialCompletionMessage": "MashaAllah, you completed your prayers today.",
-        "partialBlessingMessage": "May Allah accept your salah and bless your day.",
-        "blessingMessage": "May Allah reward your effort and help you pray all on time tomorrow, inshaAllah."
+        "partialCompletionMessage": "May Allah reward your effort and help you pray all on time tomorrow, inshaAllah.",
+        "partialBlessingMessage": "MashaAllah, you completed your prayers today.",
+        "blessingMessage": "May Allah accept your salah and bless your day."
     },
     {
         "completionMessage": "You've completed all your prayers today!",
-        "partialCompletionMessage": "Well done for completing your five prayers today.",
-        "partialBlessingMessage": "May Allah reward your dedication and grant you peace.",
-        "blessingMessage": "Strive to guard their timing more closely tomorrow, inshaAllah. Allah sees your efforts."
+        "partialCompletionMessage": "Strive to guard their timing more closely tomorrow, inshaAllah. Allah sees your efforts.",
+        "partialBlessingMessage": "Well done for completing your five prayers today.",
+        "blessingMessage": "May Allah reward your dedication and grant you peace."
     },
     {
         "completionMessage": "Alhamdulillah, all prayers done for today!",
-        "partialCompletionMessage": "May Allah bless you for fulfilling your daily prayers.",
-        "partialBlessingMessage": "May Allah shower His blessings upon your worship.",
-        "blessingMessage": "Aim to perfect their timing tomorrow, inshaAllah. Every step counts."
+        "partialCompletionMessage": "Aim to perfect their timing tomorrow, inshaAllah. Every step counts.",
+        "partialBlessingMessage": "May Allah bless you for fulfilling your daily prayers.",
+        "blessingMessage": "May Allah shower His blessings upon your worship."
     },
     {
         "completionMessage": "Masha'Allah, every prayer completed today!",
-        "partialCompletionMessage": "You made it through all five prayers—Alhamdulillah!",
-        "partialBlessingMessage": "May Allah accept your efforts and guide your heart.",
-        "blessingMessage": "Let’s aim for all on time tomorrow, inshaAllah. Allah is Most Merciful."
+        "partialCompletionMessage": "Let’s aim for all on time tomorrow, inshaAllah. Allah is Most Merciful.",
+        "partialBlessingMessage": "You made it through all five prayers—Alhamdulillah!",
+        "blessingMessage": "May Allah accept your efforts and guide your heart."
     },
     {
         "completionMessage": "All daily prayers accomplished!",
-        "partialCompletionMessage": "Great progress! Completing all your prayers is a beautiful step.",
-        "partialBlessingMessage": "May Allah make your salah a means of closeness to Him.",
-        "blessingMessage": "Try to catch every one on time next time, inshaAllah."
+        "partialCompletionMessage": "Try to catch every one on time next time, inshaAllah.",
+        "partialBlessingMessage": "Great progress! Completing all your prayers is a beautiful step.",
+        "blessingMessage": "May Allah make your salah a means of closeness to Him."
     },
     {
         "completionMessage": "SubhanAllah, all prayers checked off today!",
-        "partialCompletionMessage": "May Allah reward your consistency.",
-        "partialBlessingMessage": "May Allah bless your commitment and strengthen your faith.",
-        "blessingMessage": "Let this be a reminder to strive for timely prayers next time, inshaAllah."
+        "partialCompletionMessage": "Let this be a reminder to strive for timely prayers next time, inshaAllah.",
+        "partialBlessingMessage": "May Allah reward your consistency.",
+        "blessingMessage": "May Allah bless your commitment and strengthen your faith."
     },
     {
         "completionMessage": "Today's prayers are all complete!",
-        "partialCompletionMessage": "Alhamdulillah for every prayer you completed today.",
-        "partialBlessingMessage": "May Allah grant you tranquility through your worship.",
-        "blessingMessage": "With intention and effort, tomorrow can be even better, inshaAllah."
+        "partialCompletionMessage": "With intention and effort, tomorrow can be even better, inshaAllah.",
+        "partialBlessingMessage": "Alhamdulillah for every prayer you completed today.",
+        "blessingMessage": "May Allah grant you tranquility through your worship."
     },
     {
         "completionMessage": "You've nailed all your prayers today!",
-        "partialCompletionMessage": "Your commitment is inspiring.",
-        "partialBlessingMessage": "May Allah accept your devotion and uplift your spirit.",
-        "blessingMessage": "May Allah make it easy for you to pray on time always, inshaAllah."
+        "partialCompletionMessage": "May Allah make it easy for you to pray on time always, inshaAllah.",
+        "partialBlessingMessage": "Your commitment is inspiring.",
+        "blessingMessage": "May Allah accept your devotion and uplift your spirit."
     },
     {
         "completionMessage": "All five prayers completed today!",
-        "partialCompletionMessage": "Every prayer counts.",
-        "partialBlessingMessage": "May Allah reward your steadfastness with His mercy.",
-        "blessingMessage": "May Allah continue to guide you, and help you improve your timing each day, inshaAllah."
+        "partialCompletionMessage": "May Allah continue to guide you, and help you improve your timing each day, inshaAllah.",
+        "partialBlessingMessage": "Every prayer counts.",
+        "blessingMessage": "May Allah reward your steadfastness with His mercy."
     },
     {
         "completionMessage": "Bravo, all prayers done for the day!",
-        "partialCompletionMessage": "May your prayers be accepted.",
-        "partialBlessingMessage": "May Allah make your salah a light for your path.",
-        "blessingMessage": "Keep striving—timeliness brings more barakah, inshaAllah."
+        "partialCompletionMessage": "Keep striving—timeliness brings more barakah, inshaAllah.",
+        "partialBlessingMessage": "May your prayers be accepted.",
+        "blessingMessage": "May Allah make your salah a light for your path."
     }
 ]
