@@ -1,22 +1,22 @@
 [
-  {
-    "id": "default-1",
-    "title": "UPDATE: Eid Salah in the park.",
-    "message": "Eid Salah will take place in *Preston Park BN1 6SD* at *9am* on *Friday 6th June*.\n\nMay Allāh accept our worship and allow us to be among the inhabitants of Jannah. Aameen.",
-    "titleStyle": {
-      "textColor": "#006400",
-      "fontSize": 18,
-      "fontWeight": "bold",
-      "fontName": "Helvetica"
-    },
-    "messageStyle": {
-      "textColor": "#333333",
-      "fontSize": 14,
-      "fontWeight": "regular",
-      "fontName": "Helvetica"
-    },
-    "layout": "highlighted",
-    "backgroundColor": "#40C4FF",
-    "footerMessage": ""
-  }
+    {
+        "id": "default-1",
+        "title": "No Announcements Yet",
+        "message": "Stay tuned for updates from your community!",
+        "titleStyle": {
+            "textColor": "#006400",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "fontName": "Helvetica"
+        },
+        "messageStyle": {
+            "textColor": "#333333",
+            "fontSize": 14,
+            "fontWeight": "regular",
+            "fontName": "Helvetica"
+        },
+        "layout": "highlighted",
+        "backgroundColor": "#40C4FF",
+        "footerMessage": ""
+    }
 ]
