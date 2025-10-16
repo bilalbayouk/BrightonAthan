@@ -1,8 +1,8 @@
 [
   {
     "id": "time-change-1",
-    "title": "⏰ Please Note: Clock Change Approaching",
-    "message": "Daylight saving time will begin soon. Prayer times in the app will adjust automatically to reflect the new time. No action is required.",
+    "title": "⏰ Please Note: Clock Change on 26 October 2025",
+    "message": "On Sunday, 26 October 2025 at 2:00 AM (BST), the clocks will go back by one hour to 1:00 AM (GMT). Prayer times in the app will adjust automatically. No action is needed.",
     "titleStyle": {
       "textColor": "#FFFFFF",
       "fontSize": 18,
@@ -16,7 +16,7 @@
       "fontName": "Helvetica"
     },
     "layout": "highlighted",
-    "backgroundColor": "#1565C0",
+    "backgroundColor": "#2E7D32",
     "footerMessage": "Ensure notifications are enabled for timely updates."
   }
 ]
