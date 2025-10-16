@@ -1,22 +1,22 @@
 [
-    {
-        "id": "default-1",
-        "title": "No Announcements Yet",
-        "message": "Stay tuned for updates from your community!",
-        "titleStyle": {
-            "textColor": "#006400",
-            "fontSize": 18,
-            "fontWeight": "bold",
-            "fontName": "Helvetica"
-        },
-        "messageStyle": {
-            "textColor": "#333333",
-            "fontSize": 14,
-            "fontWeight": "regular",
-            "fontName": "Helvetica"
-        },
-        "layout": "highlighted",
-        "backgroundColor": "#40C4FF",
-        "footerMessage": ""
-    }
+  {
+    "id": "time-change-1",
+    "title": "⏰ Please Note: Clock Change Approaching",
+    "message": "Daylight saving time will begin soon. Prayer times in the app will adjust automatically to reflect the new time. No action is required.",
+    "titleStyle": {
+      "textColor": "#FFFFFF",
+      "fontSize": 18,
+      "fontWeight": "bold",
+      "fontName": "Helvetica"
+    },
+    "messageStyle": {
+      "textColor": "#F5F5F5",
+      "fontSize": 14,
+      "fontWeight": "regular",
+      "fontName": "Helvetica"
+    },
+    "layout": "highlighted",
+    "backgroundColor": "#1565C0",
+    "footerMessage": "Ensure notifications are enabled for timely updates."
+  }
 ]
