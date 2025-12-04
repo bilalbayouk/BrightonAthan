@@ -1,22 +1,22 @@
 [
   {
-    "id": "time-change-2025",
-    "title": "📅 Clock Change: 26 October 2025",
-    "message": "Please note: Clocks will go back by one hour on Sunday, 26 October 2025 at 2:00 AM (BST).\n\nYour prayer times will update automatically — no action is required.\n\nStay connected for accurate salah times.",
+    "id": "default-1",
+    "title": "No Announcements Yet",
+    "message": "Stay tuned for updates from your community!",
     "titleStyle": {
-      "textColor": "#004D40",
-      "fontSize": 20,
+      "textColor": "#006400",
+      "fontSize": 18,
       "fontWeight": "bold",
       "fontName": "Helvetica"
     },
     "messageStyle": {
-      "textColor": "#1B1B1B",
-      "fontSize": 15,
+      "textColor": "#333333",
+      "fontSize": 14,
       "fontWeight": "regular",
       "fontName": "Helvetica"
     },
     "layout": "highlighted",
     "backgroundColor": "#40C4FF",
-    "footerMessage": "🔔 Make sure app notifications are turned on."
+    "footerMessage": ""
   }
 ]
