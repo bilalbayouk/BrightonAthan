@@ -1,9 +1,30 @@
 [
   {
-    "id": "default-1",
-    "title": "Welcome to Athanly",
-    "message": "Stay tuned for updates from your community!",
-    "date": "2025-05-02",
+    "id": "1",
+    "title": "Ramadan Mubarak!",
+    "message": "Taraweeh prayers will begin tonight immediately after Isha.",
+    "date": "2025-03-10",
+    "type": "event"
+  },
+  {
+    "id": "2",
+    "title": "Jummah Time Change",
+    "message": "Starting this Friday, the first Khutbah will begin at 1:15 PM.",
+    "date": "2025-05-05",
+    "type": "alert"
+  },
+  {
+    "id": "3",
+    "title": "New Carpet Installation",
+    "message": "The main hall will be closed for maintenance until Asr prayer.",
+    "date": "2025-05-12",
+    "type": "maintenance"
+  },
+  {
+    "id": "4",
+    "title": "Community Iftar",
+    "message": "Join us every Saturday for a community potluck iftar.",
+    "date": "2025-03-15",
     "type": "general"
   }
 ]
