@@ -1,22 +1,9 @@
 [
   {
     "id": "default-1",
-    "title": "WELCOME TO ATHANLY",
+    "title": "Welcome to Athanly",
     "message": "Stay tuned for updates from your community!",
-    "titleStyle": {
-      "textColor": "#006400",
-      "fontSize": 18,
-      "fontWeight": "bold",
-      "fontName": "Helvetica"
-    },
-    "messageStyle": {
-      "textColor": "#333333",
-      "fontSize": 14,
-      "fontWeight": "regular",
-      "fontName": "Helvetica"
-    },
-    "layout": "highlighted",
-    "backgroundColor": "#40C4FF",
-    "footerMessage": ""
+    "date": "2025-05-02",
+    "type": "general"
   }
 ]
