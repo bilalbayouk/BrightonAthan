@@ -5,5 +5,12 @@
     "message": "The Ramadan moon has been sighted. Taraweeh begins tonight (17th Feb) and the first fast is tomorrow, 18th Feb. Ramadan Mubarak!\n\nMay Allāh ﷻ accept our siyām, qiyām & acts of worship, and may He grant us the ability to utilise the precious moments of this Blessed month to engage in that which pleases Him. Aameen.",
     "date": "2026-02-17",
     "type": "event"
+  },
+  {
+    "id": "default-1",
+    "title": "Welcome to Athanly",
+    "message": "Stay tuned for updates from your community!",
+    "date": "",
+    "type": "general"
   }
 ]
