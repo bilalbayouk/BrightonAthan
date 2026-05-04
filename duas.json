@@ -1,121 +1,121 @@
 [
     {
         "when": "Upon entering the home:",
-        "arabic": "بِسْمِ ٱللَّهِ وَلَجْنَا، وَبِسْمِ ٱللَّهِ خَرَجْنَا، وَعَلَىٰ رَبِّنَا تَوَكَّلْنَا",
+        "arabic": "بِسْمِ ٱللَّهِ وَلَجْنَا، وَبِسْمِ ٱللَّهِ خَرَجْنَا، وَعَلَىٰ رَبِّنَا تَوَكَّلْنَا",
         "transliteration": "Bismillahi walajna, wa bismillahi kharajna, wa ‘ala Rabbina tawakkalna",
         "english": "In the name of Allah we enter, and in the name of Allah we leave, and upon our Lord we place our trust."
     },
     {
         "when": "After completing the prayer:",
-        "arabic": "ٱللَّهُمَّ أَنْتَ ٱلسَّلَامُ وَمِنْكَ ٱلسَّلَامُ تَبَارَكْتَ يَا ذَا ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+        "arabic": "ٱللَّهُمَّ أَنْتَ ٱلسَّلَامُ وَمِنْكَ ٱلسَّلَامُ تَبَارَكْتَ يَا ذَا ٱلْجَلَالِ وَٱلْإِكْرَامِ",
         "transliteration": "Allahumma anta as-salam wa minka as-salam tabarakta ya dhal-jalali wal-ikram",
         "english": "O Allah, You are Peace, and from You comes peace. Blessed are You, O Possessor of majesty and honor."
     },
     {
         "when": "When leaving the home:",
-        "arabic": "بِسْمِ ٱللَّهِ تَوَكَّلْتُ عَلَىٰ ٱللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِٱللَّهِ",
+        "arabic": "بِسْمِ ٱللَّهِ تَوَكَّلْتُ عَلَىٰ ٱللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِٱللَّهِ",
         "transliteration": "Bismillah, tawakkaltu ‘ala Allah, wa la hawla wa la quwwata illa billah",
         "english": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah."
     },
     {
         "when": "When feeling distressed:",
-        "arabic": "حَسْبِيَ ٱللَّهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+        "arabic": "حَسْبِيَ ٱللَّهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
         "transliteration": "Hasbiyallahu la ilaha illa Huwa ‘alayhi tawakkaltu wa Huwa Rabbul ‘arshil ‘adheem",
         "english": "Allah is sufficient for me; there is no god but He. On Him I rely, and He is the Lord of the Mighty Throne."
     },
     {
         "when": "After eating:",
-        "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِي أَطْعَمَنِي هَٰذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+        "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِي أَطْعَمَنِي هَٰذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
         "transliteration": "Alhamdulillahilladhi at‘amani hadha wa razaqanihi min ghayri hawlin minni wa la quwwah",
         "english": "All praise is due to Allah who has fed me this and provided it for me without any strength or power on my part."
     },
     {
         "when": "Upon waking up:",
-        "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ ٱلنُّشُورُ",
+        "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ ٱلنُّشُورُ",
         "transliteration": "Alhamdulillahilladhi ahyana ba‘da ma amatana wa ilayhin-nushur",
         "english": "All praise is due to Allah who gave us life after having taken it from us, and to Him is the resurrection."
     },
     {
         "when": "Before sleeping:",
-        "arabic": "بِاسْمِكَ ٱللَّهُمَّ أَمُوتُ وَأَحْيَا",
+        "arabic": "بِاسْمِكَ ٱللَّهُمَّ أَمُوتُ وَأَحْيَا",
         "transliteration": "Bismika Allahumma amutu wa ahya",
         "english": "In Your name, O Allah, I die and I live."
     },
     {
         "when": "Upon entering the mosque:",
-        "arabic": "ٱللَّهُمَّ ٱفْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "arabic": "ٱللَّهُمَّ ٱفْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
         "transliteration": "Allahumma iftah li abwaba rahmatik",
         "english": "O Allah, open for me the doors of Your mercy."
     },
     {
         "when": "Upon leaving the mosque:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
         "transliteration": "Allahumma inni as’aluka min fadlika",
         "english": "O Allah, I ask You from Your bounty."
     },
     {
         "when": "Before wudu (ablution):",
-        "arabic": "بِسْمِ ٱللَّهِ",
+        "arabic": "بِسْمِ ٱللَّهِ",
         "transliteration": "Bismillah",
         "english": "In the name of Allah."
     },
     {
         "when": "After wudu (ablution):",
-        "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+        "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
         "transliteration": "Ash-hadu an la ilaha illallahu wahdahu la sharika lah, wa ash-hadu anna Muhammadan ‘abduhu wa rasuluh",
         "english": "I bear witness that there is no god but Allah alone, without any partner, and I bear witness that Muhammad is His servant and Messenger."
     },
     {
         "when": "Upon hearing the Adhan (call to prayer):",
-        "arabic": "ٱللَّهُمَّ رَبَّ هَٰذِهِ ٱلدَّعْوَةِ ٱلتَّامَّةِ وَٱلصَّلَاةِ ٱلْقَائِمَةِ آتِ مُحَمَّدًا ٱلْوَسِيلَةَ وَٱلْفَضِيلَةَ وَٱبْعَثْهُ مَقَامًا مَحْمُودًا ٱلَّذِي وَعَدْتَهُ",
+        "arabic": "ٱللَّهُمَّ رَبَّ هَٰذِهِ ٱلدَّعْوَةِ ٱلتَّامَّةِ وَٱلصَّلَاةِ ٱلْقَائِمَةِ آتِ مُحَمَّدًا ٱلْوَسِيلَةَ وَٱلْفَضِيلَةَ وَٱبْعَثْهُ مَقَامًا مَحْمُودًا ٱلَّذِي وَعَدْتَهُ",
         "transliteration": "Allahumma Rabba hadhihid-da‘watit-tammah, was-salatil-qa’imah, ati Muhammadan al-wasilah wal-fadilah, wab‘athhu maqaman mahmudan alladhi wa‘adtah",
         "english": "O Allah, Lord of this perfect call and established prayer, grant Muhammad the intercession and favor, and raise him to the praised station You have promised him."
     },
     {
         "when": "When sneezing:",
-        "arabic": "ٱلْحَمْدُ لِلَّهِ",
+        "arabic": "ٱلْحَمْدُ لِلَّهِ",
         "transliteration": "Alhamdulillah",
         "english": "All praise is due to Allah."
     },
     {
         "when": "Responding to someone who sneezes:",
-        "arabic": "يَرْحَمُكَ ٱللَّهُ",
+        "arabic": "يَرْحَمُكَ ٱللَّهُ",
         "transliteration": "YarhamukAllah",
         "english": "May Allah have mercy on you."
     },
     {
         "when": "Upon seeing someone in distress:",
-        "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِي عَافَانِي مِمَّا ٱبْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَىٰ كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا",
+        "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِي عَافَانِي مِمَّا ٱبْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَىٰ كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا",
         "transliteration": "Alhamdulillahilladhi ‘afani mimmabtalaka bihi wa faddalani ‘ala kathirin mimman khalaqa tafdila",
         "english": "All praise is due to Allah who has saved me from that which He tested you with and preferred me over much of His creation."
     },
     {
         "when": "For protection from harm:",
-        "arabic": "أَعُوذُ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "arabic": "أَعُوذُ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
         "transliteration": "A‘udhu bikalimatillahit-tammati min sharri ma khalaq",
         "english": "I seek refuge in the perfect words of Allah from the evil of what He has created."
     },
     {
         "when": "When starting a journey:",
-        "arabic": "ٱللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَٰذَا ٱلْبِرَّ وَٱلتَّقْوَىٰ وَمِنَ ٱلْعَمَلِ مَا تَرْضَىٰ",
+        "arabic": "ٱللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَٰذَا ٱلْبِرَّ وَٱلتَّقْوَىٰ وَمِنَ ٱلْعَمَلِ مَا تَرْضَىٰ",
         "transliteration": "Allahumma inna nas’aluka fi safarina hadha al-birra wat-taqwa wa minal-‘amali ma tarda",
         "english": "O Allah, we ask You during this journey of ours for righteousness and piety, and for deeds that are pleasing to You."
     },
     {
         "when": "When returning from a journey:",
-        "arabic": "آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
+        "arabic": "آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
         "transliteration": "Ayibuna ta’ibuna ‘abiduna li-Rabbina hamidun",
         "english": "We return, repent, worship, and praise our Lord."
     },
     {
         "when": "For seeking forgiveness:",
-        "arabic": "أَسْتَغْفِرُ ٱللَّهَ ٱلَّذِي لَا إِلَٰهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+        "arabic": "أَسْتَغْفِرُ ٱللَّهَ ٱلَّذِي لَا إِلَٰهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
         "transliteration": "Astaghfirullahalladhi la ilaha illa Huwal-Hayyul-Qayyum wa atubu ilayh",
         "english": "I seek forgiveness from Allah, there is no god but He, the Ever-Living, the Sustainer, and I turn to Him in repentance."
     },
     {
         "when": "When entering the bathroom:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْخُبْثِ وَٱلْخَبَائِثِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْخُبْثِ وَٱلْخَبَائِثِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-khubthi wal-khaba’ith",
         "english": "O Allah, I seek refuge with You from male and female devils."
     },
@@ -127,452 +127,1076 @@
     },
     {
         "when": "When breaking the fast:",
-        "arabic": "ٱللَّهُمَّ لَكَ صُمْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ",
+        "arabic": "ٱللَّهُمَّ لَكَ صُمْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ",
         "transliteration": "Allahumma laka sumtu wa ‘ala rizqika aftartu",
         "english": "O Allah, for You I have fasted, and with Your provision I break my fast."
     },
     {
         "when": "When seeking knowledge:",
-        "arabic": "ٱللَّهُمَّ ٱنْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي",
+        "arabic": "ٱللَّهُمَّ ٱنْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي",
         "transliteration": "Allahumma anfa‘ni bima ‘allamtani wa ‘allimni ma yanfa‘uni",
         "english": "O Allah, benefit me with what You have taught me, and teach me what will benefit me."
     },
     {
         "when": "For morning remembrance:",
-        "arabic": "أَصْبَحْنَا وَأَصْبَحَ ٱلْمُلْكُ لِلَّهِ وَٱلْحَمْدُ لِلَّهِ لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+        "arabic": "أَصْبَحْنَا وَأَصْبَحَ ٱلْمُلْكُ لِلَّهِ وَٱلْحَمْدُ لِلَّهِ لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
         "transliteration": "Asbahna wa asbahal-mulku lillahi wal-hamdu lillahi la ilaha illallahu wahdahu la sharika lah",
         "english": "We have reached the morning, and the dominion belongs to Allah. All praise is due to Allah; there is no god but Allah, alone without any partner."
     },
     {
         "when": "For evening remembrance:",
-        "arabic": "أَمْسَيْنَا وَأَمْسَى ٱلْمُلْكُ لِلَّهِ وَٱلْحَمْدُ لِلَّهِ لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+        "arabic": "أَمْسَيْنَا وَأَمْسَى ٱلْمُلْكُ لِلَّهِ وَٱلْحَمْدُ لِلَّهِ لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
         "transliteration": "Amsayna wa amsal-mulku lillahi wal-hamdu lillahi la ilaha illallahu wahdahu la sharika lah",
         "english": "We have reached the evening, and the dominion belongs to Allah. All praise is due to Allah; there is no god but Allah, alone without any partner."
     },
     {
         "when": "For protection from evil eye:",
-        "arabic": "أَعُوذُ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "arabic": "أَعُوذُ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
         "transliteration": "A‘udhu bikalimatillahit-tammati min kulli shaytanin wa hammatin wa min kulli ‘aynin lammatin",
         "english": "I seek refuge in the perfect words of Allah from every devil, poisonous creature, and every envious eye."
     },
     {
         "when": "When visiting the sick:",
-        "arabic": "أَسْأَلُ ٱللَّهَ ٱلْعَظِيمَ رَبَّ ٱلْعَرْشِ ٱلْعَظِيمِ أَنْ يَشْفِيَكَ",
+        "arabic": "أَسْأَلُ ٱللَّهَ ٱلْعَظِيمَ رَبَّ ٱلْعَرْشِ ٱلْعَظِيمِ أَنْ يَشْفِيَكَ",
         "transliteration": "As’alullahal-‘Adheema Rabbal-‘Arshil-‘Adheemi an yashfiyak",
         "english": "I ask Allah, the Mighty, Lord of the Mighty Throne, to cure you."
     },
     {
         "when": "For entering a marketplace:",
-        "arabic": "لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ بِيَدِهِ ٱلْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "arabic": "لَا إِلَٰهَ إِلَّا ٱللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ بِيَدِهِ ٱلْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
         "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu yuhyi wa yumitu wa huwa hayyun la yamutu biyadihil-khayru wa huwa ‘ala kulli shay’in qadir",
         "english": "There is no god but Allah, alone without any partner. To Him belongs the dominion and all praise. He gives life and causes death, and He is the Ever-Living who never dies. In His Hand is all good, and He is over all things capable."
     },
     {
         "when": "When experiencing fear:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْخَوْفِ وَٱلْجُبْنِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْخَوْفِ وَٱلْجُبْنِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-khawfi wal-jubn",
         "english": "O Allah, I seek refuge in You from fear and cowardice."
     },
     {
         "when": "For seeking guidance (Istikhara):",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ وَأَسْأَلُكَ مِنْ فَضْلِكَ ٱلْعَظِيمِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ وَأَسْأَلُكَ مِنْ فَضْلِكَ ٱلْعَظِيمِ",
         "transliteration": "Allahumma inni astakhiruka bi‘ilmika wa astaqdiruka biqudratika wa as’aluka min fadlika al-‘adheem",
         "english": "O Allah, I seek Your guidance by Your knowledge and Your power by Your might, and I ask You from Your immense favor."
     },
     {
         "when": "When it rains:",
-        "arabic": "ٱللَّهُمَّ صَيِّبًا نَافِعًا",
+        "arabic": "ٱللَّهُمَّ صَيِّبًا نَافِعًا",
         "transliteration": "Allahumma sayyiban nafi‘an",
         "english": "O Allah, make it a beneficial rain."
     },
     {
         "when": "After a nightmare:",
-        "arabic": "أَعُوذُ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ ٱلشَّيَاطِينِ وَأَنْ يَحْضُرُونَ",
+        "arabic": "أَعُوذُ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ ٱلشَّيَاطِينِ وَأَنْ يَحْضُرُونَ",
         "transliteration": "A‘udhu bikalimatillahit-tammati min ghadabihi wa ‘iqabihi wa sharri ‘ibadihi wa min hamazatish-shayateeni wa an yahdurun",
         "english": "I seek refuge in the perfect words of Allah from His anger, His punishment, the evil of His servants, and from the whispers of devils and their presence."
     },
     {
         "when": "For parents:",
-        "arabic": "رَبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+        "arabic": "رَبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
         "transliteration": "Rabbirhamhuma kama rabbayani sagheera",
         "english": "My Lord, have mercy upon them as they brought me up when I was young."
     },
     {
         "when": "When wearing new clothes:",
-        "arabic": "ٱللَّهُمَّ لَكَ ٱلْحَمْدُ أَنْتَ كَسَوْتَنِيهِ أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ",
+        "arabic": "ٱللَّهُمَّ لَكَ ٱلْحَمْدُ أَنْتَ كَسَوْتَنِيهِ أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ",
         "transliteration": "Allahumma laka al-hamdu anta kasawtanihi as’aluka min khayrihi wa khayri ma suni‘a lah",
         "english": "O Allah, to You be praise, You have clothed me with it. I ask You for its good and the good for which it was made."
     },
     {
         "when": "For entering a new month:",
-        "arabic": "ٱللَّهُمَّ أَدْخِلْهُ عَلَيْنَا بِٱلْأَمْنِ وَٱلْإِيمَانِ وَٱلسَّلَامَةِ وَٱلْإِسْلَامِ",
+        "arabic": "ٱللَّهُمَّ أَدْخِلْهُ عَلَيْنَا بِٱلْأَمْنِ وَٱلْإِيمَانِ وَٱلسَّلَامَةِ وَٱلْإِسْلَامِ",
         "transliteration": "Allahumma adkhilhu ‘alayna bil-amni wal-imani was-salamati wal-Islam",
         "english": "O Allah, bring it upon us with security, faith, safety, and Islam."
     },
     {
         "when": "When seeing the new moon:",
-        "arabic": "ٱللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِٱلْيُمْنِ وَٱلْإِيمَانِ وَٱلسَّلَامَةِ وَٱلْإِسْلَامِ",
+        "arabic": "ٱللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِٱلْيُمْنِ وَٱلْإِيمَانِ وَٱلسَّلَامَةِ وَٱلْإِسْلَامِ",
         "transliteration": "Allahumma ahillahu ‘alayna bilyumni wal-imani was-salamati wal-Islam",
         "english": "O Allah, let this moon appear to us with blessings, faith, safety, and Islam."
     },
     {
         "when": "For expelling Satan:",
-        "arabic": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَانِ ٱلرَّجِيمِ",
+        "arabic": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَانِ ٱلرَّجِيمِ",
         "transliteration": "A‘udhu billahi minash-shaytanir-rajeem",
         "english": "I seek refuge in Allah from the accursed Satan."
     },
     {
         "when": "For ease in difficulties:",
-        "arabic": "ٱللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ ٱلْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+        "arabic": "ٱللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ ٱلْحَزْنَ إِذَا شِئْتَ سَهْلًا",
         "transliteration": "Allahumma la sahla illa ma ja‘altahu sahlan wa anta taj‘alul-hazna idha shi’ta sahlan",
         "english": "O Allah, there is no ease except what You make easy, and You make difficulty easy when You will."
     },
     {
         "when": "When thanking someone:",
-        "arabic": "جَزَاكَ ٱللَّهُ خَيْرًا",
+        "arabic": "جَزَاكَ ٱللَّهُ خَيْرًا",
         "transliteration": "JazakAllahu khayran",
         "english": "May Allah reward you with goodness."
     },
     {
         "when": "For protection of children:",
-        "arabic": "أُعِيذُكُمْ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "arabic": "أُعِيذُكُمْ بِكَلِمَاتِ ٱللَّهِ ٱلتَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
         "transliteration": "U‘eedhukum bikalimatillahit-tammati min kulli shaytanin wa hammatin wa min kulli ‘aynin lammatin",
         "english": "I seek refuge for you in the perfect words of Allah from every devil, poisonous creature, and every envious eye."
     },
     {
         "when": "When intending to do something:",
-        "arabic": "إِنْ شَاءَ ٱللَّهُ",
+        "arabic": "إِنْ شَاءَ ٱللَّهُ",
         "transliteration": "In sha’Allah",
         "english": "If Allah wills."
     },
     {
         "when": "For success in endeavors:",
-        "arabic": "ٱللَّهُمَّ يَسِّرْ وَلَا تُعَسِّرْ",
+        "arabic": "ٱللَّهُمَّ يَسِّرْ وَلَا تُعَسِّرْ",
         "transliteration": "Allahumma yassir wala tu‘assir",
         "english": "O Allah, make it easy and do not make it difficult."
     },
     {
         "when": "When seeing something pleasing:",
-        "arabic": "تَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَالِقِينَ",
+        "arabic": "تَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَالِقِينَ",
         "transliteration": "TabarakAllah ahsanul-khaliqeen",
         "english": "Blessed is Allah, the best of creators."
     },
     {
         "when": "For protection from trials:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ ٱلنَّارِ وَعَذَابِ ٱلنَّارِ وَفِتْنَةِ ٱلْقَبْرِ وَعَذَابِ ٱلْقَبْرِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ ٱلنَّارِ وَعَذَابِ ٱلنَّارِ وَفِتْنَةِ ٱلْقَبْرِ وَعَذَابِ ٱلْقَبْرِ",
         "transliteration": "Allahumma inni a‘udhu bika min fitnatin-nari wa ‘adhabin-nari wa fitnatil-qabri wa ‘adhabil-qabr",
         "english": "O Allah, I seek refuge in You from the trial of the Fire, the punishment of the Fire, the trial of the grave, and the punishment of the grave."
     },
     {
         "when": "For seeking sustenance:",
-        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي رِزْقًا حَلَالًا طَيِّبًا",
+        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي رِزْقًا حَلَالًا طَيِّبًا",
         "transliteration": "Allahumma arzuqni rizqan halalan tayyiban",
         "english": "O Allah, grant me lawful and pure sustenance."
     },
     {
         "when": "When feeling pain:",
-        "arabic": "أَعُوذُ بِٱللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+        "arabic": "أَعُوذُ بِٱللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
         "transliteration": "A‘udhu billahi wa qudratihi min sharri ma ajidu wa uhadhir",
         "english": "I seek refuge in Allah and His power from the evil of what I feel and fear."
     },
     {
         "when": "For protection from all evil:",
-        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
         "transliteration": "Allahumma ihfazni min bayni yadayya wa min khalfi wa ‘an yamini wa ‘an shimali wa min fawqi wa a‘udhu bi‘azamatika an ughtala min tahti",
         "english": "O Allah, protect me from in front of me, from behind me, from my right, from my left, from above me, and I seek refuge in Your greatness from being taken unawares from below me."
     },
     {
         "when": "For forgiveness and mercy:",
-        "arabic": "ٱللَّهُمَّ ٱغْفِرْ لِي ذَنْبِي كُلَّهُ دِقَّهُ وَجِلَّهُ وَأَوَّلَهُ وَآخِرَهُ وَعَلَانِيَتَهُ وَسِرَّهُ",
+        "arabic": "ٱللَّهُمَّ ٱغْفِرْ لِي ذَنْبِي كُلَّهُ دِقَّهُ وَجِلَّهُ وَأَوَّلَهُ وَآخِرَهُ وَعَلَانِيَتَهُ وَسِرَّهُ",
         "transliteration": "Allahummaghfir li dhanbi kullahu diqqahu wa jillahu wa awwalahu wa akhirahu wa ‘alaniyatahu wa sirrahu",
         "english": "O Allah, forgive me all my sins, the small and the great, the first and the last, the open and the secret."
     },
     {
         "when": "For steadfastness in faith:",
-        "arabic": "ٱللَّهُمَّ يَا مُقَلِّبَ ٱلْقُلُوبِ ثَبِّتْ قَلْبِي عَلَىٰ دِينِكَ",
+        "arabic": "ٱللَّهُمَّ يَا مُقَلِّبَ ٱلْقُلُوبِ ثَبِّتْ قَلْبِي عَلَىٰ دِينِكَ",
         "transliteration": "Allahumma ya muqallibal-qulubi thabbit qalbi ‘ala deenik",
         "english": "O Allah, O Turner of hearts, make my heart firm upon Your religion."
     },
     {
         "when": "For protection from Hellfire:",
-        "arabic": "ٱللَّهُمَّ أَجِرْنِي مِنَ ٱلنَّارِ",
+        "arabic": "ٱللَّهُمَّ أَجِرْنِي مِنَ ٱلنَّارِ",
         "transliteration": "Allahumma ajirni minan-nar",
         "english": "O Allah, save me from the Fire."
     },
     {
         "when": "For entering Jannah (Paradise):",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ ٱلْجَنَّةَ وَأَعُوذُ بِكَ مِنَ ٱلنَّارِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ ٱلْجَنَّةَ وَأَعُوذُ بِكَ مِنَ ٱلنَّارِ",
         "transliteration": "Allahumma inni as’alukal-jannata wa a‘udhu bika minan-nar",
         "english": "O Allah, I ask You for Paradise and seek refuge in You from the Fire."
     },
     {
         "when": "For guidance and righteousness:",
-        "arabic": "ٱللَّهُمَّ ٱهْدِنِي وَسَدِّدْنِي",
+        "arabic": "ٱللَّهُمَّ ٱهْدِنِي وَسَدِّدْنِي",
         "transliteration": "Allahumma ihdini wa saddidni",
         "english": "O Allah, guide me and make me upright."
     },
     {
         "when": "For good character:",
-        "arabic": "ٱللَّهُمَّ أَحْسَنْتَ خَلْقِي فَأَحْسِنْ خُلُقِي",
+        "arabic": "ٱللَّهُمَّ أَحْسَنْتَ خَلْقِي فَأَحْسِنْ خُلُقِي",
         "transliteration": "Allahumma ahsanta khalqi fa ahsin khuluqi",
         "english": "O Allah, You have perfected my creation, so perfect my character."
     },
     {
         "when": "For protection from trials:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ ٱلْمَحْيَا وَٱلْمَمَاتِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ ٱلْمَحْيَا وَٱلْمَمَاتِ",
         "transliteration": "Allahumma inni a‘udhu bika min fitnatil-mahya wal-mamat",
         "english": "O Allah, I seek refuge in You from the trials of life and death."
     },
     {
         "when": "For relief from debt:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْهَمِّ وَٱلْحَزَنِ وَأَعُوذُ بِكَ مِنَ ٱلْعَجْزِ وَٱلْكَسَلِ وَأَعُوذُ بِكَ مِنَ ٱلْجُبْنِ وَٱلْبُخْلِ وَأَعُوذُ بِكَ مِنْ غَلَبَةِ ٱلدَّيْنِ وَقَهْرِ ٱلرِّجَالِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْهَمِّ وَٱلْحَزَنِ وَأَعُوذُ بِكَ مِنَ ٱلْعَجْزِ وَٱلْكَسَلِ وَأَعُوذُ بِكَ مِنَ ٱلْجُبْنِ وَٱلْبُخْلِ وَأَعُوذُ بِكَ مِنْ غَلَبَةِ ٱلدَّيْنِ وَقَهْرِ ٱلرِّجَالِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-hammi wal-hazan, wa a‘udhu bika minal-‘ajzi wal-kasal, wa a‘udhu bika minal-jubni wal-bukhl, wa a‘udhu bika min ghalabatid-dayni wa qahrir-rijal",
         "english": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, cowardice and miserliness, and from being overcome by debt and the oppression of men."
     },
     {
         "when": "For patience and reward:",
-        "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ ٱللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+        "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ ٱللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
         "transliteration": "Inna lillahi wa inna ilayhi raji‘un, Allahumma ajurni fi musibati wa akhlif li khayran minha",
         "english": "Indeed, to Allah we belong and to Him we shall return. O Allah, reward me for my affliction and replace it with something better."
     },
     {
         "when": "For acceptance of deeds:",
-        "arabic": "ٱللَّهُمَّ ٱجْعَلْ عَمَلِي صَالِحًا وَٱجْعَلْهُ لَكَ خَالِصًا وَلَا تَجْعَلْ لِأَحَدٍ فِيهِ شَيْئًا",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ عَمَلِي صَالِحًا وَٱجْعَلْهُ لَكَ خَالِصًا وَلَا تَجْعَلْ لِأَحَدٍ فِيهِ شَيْئًا",
         "transliteration": "Allahummaj‘al ‘amali salihan waj‘alhu laka khalisan wala taj‘al li’ahadin fihi shay’an",
         "english": "O Allah, make my deeds righteous, make them sincere for You, and do not let anyone have a share in them."
     },
     {
         "when": "For protection from hypocrisy:",
-        "arabic": "ٱللَّهُمَّ طَهِّرْ قَلْبِي مِنَ ٱلنِّفَاقِ وَعَمَلِي مِنَ ٱلرِّيَاءِ",
+        "arabic": "ٱللَّهُمَّ طَهِّرْ قَلْبِي مِنَ ٱلنِّفَاقِ وَعَمَلِي مِنَ ٱلرِّيَاءِ",
         "transliteration": "Allahumma tahhir qalbi minan-nifaqi wa ‘amali minar-riya’",
         "english": "O Allah, purify my heart from hypocrisy and my actions from showing off."
     },
     {
         "when": "For a good end:",
-        "arabic": "ٱللَّهُمَّ ٱجْعَلْ خَيْرَ عُمْرِي آخِرَهُ وَخَيْرَ عَمَلِي خَوَاتِيمَهُ وَخَيْرَ أَيَّامِي يَوْمَ أَلْقَاكَ",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ خَيْرَ عُمْرِي آخِرَهُ وَخَيْرَ عَمَلِي خَوَاتِيمَهُ وَخَيْرَ أَيَّامِي يَوْمَ أَلْقَاكَ",
         "transliteration": "Allahummaj‘al khayra ‘umri akhirahu wa khayra ‘amali khawatimahu wa khayra ayyami yawma alqak",
         "english": "O Allah, make the best part of my life its end, the best of my deeds their conclusion, and the best of my days the day I meet You."
     },
     {
         "when": "For blessings in sustenance:",
-        "arabic": "ٱللَّهُمَّ ٱكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "arabic": "ٱللَّهُمَّ ٱكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
         "transliteration": "Allahummakfini bihalalika ‘an haramik, wa aghnini bifadlika ‘amman siwak",
         "english": "O Allah, suffice me with Your lawful provision against Your forbidden, and make me independent of all besides You by Your grace."
     },
     {
         "when": "For protection from oppression:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلظُّلْمِ وَٱلْمَظْلُومِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلظُّلْمِ وَٱلْمَظْلُومِ",
         "transliteration": "Allahumma inni a‘udhu bika minadh-dhulmi wal-madhlum",
         "english": "O Allah, I seek refuge in You from oppressing or being oppressed."
     },
     {
         "when": "For a righteous spouse:",
-        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي زَوْجًا صَالِحًا يُعِينُنِي عَلَىٰ طَاعَتِكَ",
+        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي زَوْجًا صَالِحًا يُعِينُنِي عَلَىٰ طَاعَتِكَ",
         "transliteration": "Allahummarzuqni zawjan salihan yu‘inuni ‘ala ta‘atik",
         "english": "O Allah, grant me a righteous spouse who helps me in obeying You."
     },
     {
         "when": "For righteous children:",
-        "arabic": "رَبِّ هَبْ لِي مِنَ ٱلصَّالِحِينَ",
+        "arabic": "رَبِّ هَبْ لِي مِنَ ٱلصَّالِحِينَ",
         "transliteration": "Rabbi hab li minas-salihin",
         "english": "My Lord, grant me from among the righteous."
     },
     {
         "when": "For protection from laziness:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْعَجْزِ وَٱلْكَسَلِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْعَجْزِ وَٱلْكَسَلِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-‘ajzi wal-kasal",
         "english": "O Allah, I seek refuge in You from incapacity and laziness."
     },
     {
         "when": "For victory over enemies:",
-        "arabic": "ٱللَّهُمَّ ٱنْصُرْنِي عَلَىٰ مَنْ ظَلَمَنِي",
+        "arabic": "ٱللَّهُمَّ ٱنْصُرْنِي عَلَىٰ مَنْ ظَلَمَنِي",
         "transliteration": "Allahumma ansurni ‘ala man dhalamani",
         "english": "O Allah, grant me victory over those who oppress me."
     },
     {
         "when": "For protection from poverty:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْفَقْرِ وَٱلْقِلَّةِ وَٱلذِّلَّةِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْفَقْرِ وَٱلْقِلَّةِ وَٱلذِّلَّةِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-faqri wal-qillati wadh-dhillah",
         "english": "O Allah, I seek refuge in You from poverty, scarcity, and humiliation."
     },
     {
         "when": "For ease in affairs:",
-        "arabic": "ٱللَّهُمَّ يَسِّرْ لِي أَمْرِي وَٱفْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "arabic": "ٱللَّهُمَّ يَسِّرْ لِي أَمْرِي وَٱفْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
         "transliteration": "Allahumma yassir li amri waftah li abwaba rahmatik",
         "english": "O Allah, make my affairs easy and open for me the doors of Your mercy."
     },
     {
         "when": "For protection from envy:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْحَسَدِ وَٱلْحَاسِدِينَ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْحَسَدِ وَٱلْحَاسِدِينَ",
         "transliteration": "Allahumma inni a‘udhu bika minal-hasad wal-hasidin",
         "english": "O Allah, I seek refuge in You from envy and the envious."
     },
     {
         "when": "For contentment:",
-        "arabic": "ٱللَّهُمَّ قَنِّعْنِي بِمَا رَزَقْتَنِي وَبَارِكْ لِي فِيهِ",
+        "arabic": "ٱللَّهُمَّ قَنِّعْنِي بِمَا رَزَقْتَنِي وَبَارِكْ لِي فِيهِ",
         "transliteration": "Allahumma qanni‘ni bima raziqtani wa barik li fih",
         "english": "O Allah, make me content with what You have provided me and bless me in it."
     },
     {
         "when": "For protection from disease:",
-        "arabic": "ٱللَّهُمَّ عَافِنِي فِي بَدَنِي وَعَافِنِي فِي سَمْعِي وَعَافِنِي فِي بَصَرِي",
+        "arabic": "ٱللَّهُمَّ عَافِنِي فِي بَدَنِي وَعَافِنِي فِي سَمْعِي وَعَافِنِي فِي بَصَرِي",
         "transliteration": "Allahumma ‘afini fi badani wa ‘afini fi sam‘i wa ‘afini fi basari",
         "english": "O Allah, grant me health in my body, my hearing, and my sight."
     },
     {
         "when": "For strength in worship:",
-        "arabic": "ٱللَّهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "arabic": "ٱللَّهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
         "transliteration": "Allahumma a‘inni ‘ala dhikrika wa shukrika wa husni ‘ibadatik",
         "english": "O Allah, help me to remember You, to be grateful to You, and to worship You in the best manner."
     },
     {
         "when": "For seeking Allah’s pleasure:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ رِضَاكَ وَٱلْجَنَّةَ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَسْأَلُكَ رِضَاكَ وَٱلْجَنَّةَ",
         "transliteration": "Allahumma inni as’aluka ridaka wal-jannah",
         "english": "O Allah, I ask You for Your pleasure and Paradise."
     },
     {
         "when": "For protection from arrogance:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْكِبْرِ وَٱلْعُجْبِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْكِبْرِ وَٱلْعُجْبِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-kibr wal-‘ujb",
         "english": "O Allah, I seek refuge in You from arrogance and self-admiration."
     },
     {
         "when": "For a sound heart:",
-        "arabic": "ٱللَّهُمَّ ٱجْعَلْ قَلْبِي سَلِيمًا مِنْ كُلِّ دَاءٍ",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ قَلْبِي سَلِيمًا مِنْ كُلِّ دَاءٍ",
         "transliteration": "Allahummaj‘al qalbi saliman min kulli da’",
         "english": "O Allah, make my heart sound from every disease."
     },
     {
         "when": "For protection from betrayal:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْخِيَانَةِ وَٱلْمَخَادِعِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْخِيَانَةِ وَٱلْمَخَادِعِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-khiyanati wal-makhadi‘",
         "english": "O Allah, I seek refuge in You from betrayal and deceit."
     },
     {
         "when": "For protection from slander:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْبُهْتَانِ وَٱلْفِرْيَةِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْبُهْتَانِ وَٱلْفِرْيَةِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-buhtani wal-firyah",
         "english": "O Allah, I seek refuge in You from slander and false accusations."
     },
     {
         "when": "For a blessed family:",
-        "arabic": "ٱللَّهُمَّ ٱجْعَلْ أَهْلِي وَوَلَدِي مِنَ ٱلصَّالِحِينَ",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ أَهْلِي وَوَلَدِي مِنَ ٱلصَّالِحِينَ",
         "transliteration": "Allahummaj‘al ahli wa waladi minas-salihin",
         "english": "O Allah, make my family and children among the righteous."
     },
     {
         "when": "For protection from despair:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْيَأْسِ وَٱلْقُنُوطِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْيَأْسِ وَٱلْقُنُوطِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-ya’si wal-qunut",
         "english": "O Allah, I seek refuge in You from despair and hopelessness."
     },
     {
         "when": "For knowledge and wisdom:",
-        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي عِلْمًا نَافِعًا وَحِكْمَةً بَالِغَةً",
+        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي عِلْمًا نَافِعًا وَحِكْمَةً بَالِغَةً",
         "transliteration": "Allahummarzuqni ‘ilman nafi‘an wa hikmatan balighah",
         "english": "O Allah, grant me beneficial knowledge and profound wisdom."
     },
     {
         "when": "For protection from whispers of Shaytan:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ هَمَزَاتِ ٱلشَّيَاطِينِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ هَمَزَاتِ ٱلشَّيَاطِينِ",
         "transliteration": "Allahumma inni a‘udhu bika min hamazatish-shayatin",
         "english": "O Allah, I seek refuge in You from the whispers of the devils."
     },
     {
         "when": "For a blessed home:",
-        "arabic": "ٱللَّهُمَّ ٱجْعَلْ بَيْتِي مَسْكَنًا طَيِّبًا وَرِزْقًا وَاسِعًا",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ بَيْتِي مَسْكَنًا طَيِّبًا وَرِزْقًا وَاسِعًا",
         "transliteration": "Allahummaj‘al bayti maskanan tayyiban wa rizqan wasi‘an",
         "english": "O Allah, make my home a pure dwelling and grant me abundant provision."
     },
     {
         "when": "For gratitude and contentment:",
-        "arabic": "ٱللَّهُمَّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِي أَنْعَمْتَ عَلَيَّ",
+        "arabic": "ٱللَّهُمَّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِي أَنْعَمْتَ عَلَيَّ",
         "transliteration": "Allahumma awzi‘ni an ashkura ni‘mataka allati an‘amta ‘alayya",
         "english": "O Allah, inspire me to be grateful for the blessings You have bestowed upon me."
     },
     {
         "when": "For protection from calamity:",
-        "arabic": "ٱللَّهُمَّ ٱصْرِفْ عَنِّي ٱلْبَلَاءَ وَٱلشَّقَاءَ",
+        "arabic": "ٱللَّهُمَّ ٱصْرِفْ عَنِّي ٱلْبَلَاءَ وَٱلشَّقَاءَ",
         "transliteration": "Allahummasrif ‘anni al-bala’a wash-shaqqa’",
         "english": "O Allah, avert from me calamity and misery."
     },
     {
         "when": "For increase in faith:",
-        "arabic": "ٱللَّهُمَّ زِدْنِي إِيمَانًا وَيَقِينًا",
+        "arabic": "ٱللَّهُمَّ زِدْنِي إِيمَانًا وَيَقِينًا",
         "transliteration": "Allahumma zidni imanan wa yaqinan",
         "english": "O Allah, increase me in faith and certainty."
     },
     {
         "when": "For protection from bad company:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ صُحْبَةِ ٱلسُّوءِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ صُحْبَةِ ٱلسُّوءِ",
         "transliteration": "Allahumma inni a‘udhu bika min suhbati as-su’",
         "english": "O Allah, I seek refuge in You from bad company."
     },
     {
         "when": "For a good reputation:",
-        "arabic": "ٱللَّهُمَّ ٱجْعَلْ لِي لِسَانَ صِدْقٍ فِي ٱلنَّاسِ",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ لِي لِسَانَ صِدْقٍ فِي ٱلنَّاسِ",
         "transliteration": "Allahummaj‘al li lisana sidqin fin-nas",
         "english": "O Allah, grant me a truthful reputation among people."
     },
     {
         "when": "For protection from greed:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلشُّحِّ وَٱلطَّمَعِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلشُّحِّ وَٱلطَّمَعِ",
         "transliteration": "Allahumma inni a‘udhu bika minash-shuhhi wat-tama‘",
         "english": "O Allah, I seek refuge in You from greed and avarice."
     },
     {
         "when": "For a blessed day:",
-        "arabic": "ٱللَّهُمَّ ٱجْعَلْ يَوْمِي هَٰذَا يَوْمًا مُبَارَكًا",
+        "arabic": "ٱللَّهُمَّ ٱجْعَلْ يَوْمِي هَٰذَا يَوْمًا مُبَارَكًا",
         "transliteration": "Allahummaj‘al yawmi hadha yawman mubarakan",
         "english": "O Allah, make this day of mine a blessed day."
     },
     {
         "when": "For protection from ignorance:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْجَهْلِ وَٱلضَّلَالِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ ٱلْجَهْلِ وَٱلضَّلَالِ",
         "transliteration": "Allahumma inni a‘udhu bika minal-jahli wad-dalal",
         "english": "O Allah, I seek refuge in You from ignorance and misguidance."
     },
     {
         "when": "For a sound mind:",
-        "arabic": "ٱللَّهُمَّ ٱحْفَظْ عَقْلِي وَدِينِي",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْ عَقْلِي وَدِينِي",
         "transliteration": "Allahumma ihfaz ‘aqli wa dini",
         "english": "O Allah, protect my mind and my religion."
     },
     {
         "when": "For protection from harm of enemies:",
-        "arabic": "ٱللَّهُمَّ ٱكْفِنِي شَرَّ أَعْدَائِي",
+        "arabic": "ٱللَّهُمَّ ٱكْفِنِي شَرَّ أَعْدَائِي",
         "transliteration": "Allahummakfini sharra a‘da’i",
         "english": "O Allah, suffice me against the evil of my enemies."
     },
     {
         "when": "For seeking Allah’s mercy:",
-        "arabic": "ٱللَّهُمَّ ٱرْحَمْنِي بِرَحْمَتِكَ ٱلَّتِي وَسِعَتْ كُلَّ شَيْءٍ",
+        "arabic": "ٱللَّهُمَّ ٱرْحَمْنِي بِرَحْمَتِكَ ٱلَّتِي وَسِعَتْ كُلَّ شَيْءٍ",
         "transliteration": "Allahummarhamni birahmatika allati wasi‘at kulla shay’",
         "english": "O Allah, have mercy on me with Your mercy that encompasses all things."
     },
     {
         "when": "For a blessed livelihood:",
-        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي مَعِيشَةً طَيِّبَةً وَعَمَلًا مُتَقَبَّلًا",
+        "arabic": "ٱللَّهُمَّ ٱرْزُقْنِي مَعِيشَةً طَيِّبَةً وَعَمَلًا مُتَقَبَّلًا",
         "transliteration": "Allahummarzuqni ma‘ishatan tayyibatan wa ‘amalan mutaqabbala",
         "english": "O Allah, grant me a pure livelihood and accepted deeds."
     },
     {
         "when": "For protection from sudden death:",
-        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ مَوْتِ ٱلْفَجْأَةِ",
+        "arabic": "ٱللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ مَوْتِ ٱلْفَجْأَةِ",
         "transliteration": "Allahumma inni a‘udhu bika min mawtil-faj’ah",
         "english": "O Allah, I seek refuge in You from sudden death."
     },
     {
         "when": "For a safe journey:",
-        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي فِي سَفَرِي وَٱرْزُقْنِي ٱلسَّلَامَةَ",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي فِي سَفَرِي وَٱرْزُقْنِي ٱلسَّلَامَةَ",
         "transliteration": "Allahumma ihfazni fi safari warzuqni as-salamah",
         "english": "O Allah, protect me during my journey and grant me safety."
     },
     {
         "when": "For protection from black magic:",
-        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي مِنَ ٱلسِّحْرِ وَٱلشَّرِّ",
+        "arabic": "ٱللَّهُمَّ ٱحْفَظْنِي مِنَ ٱلسِّحْرِ وَٱلشَّرِّ",
         "transliteration": "Allahumma ihfazni minas-sihr wash-sharr",
         "english": "O Allah, protect me from black magic and evil."
+    },
+    {
+        "when": "For the good of this world and the Hereafter:",
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina ‘adhaban-nar",
+        "english": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
+    },
+    {
+        "when": "For mercy and guidance (Quranic):",
+        "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ",
+        "transliteration": "Rabbana la tuzigh quloobana ba'da idh hadaytana wa hab lana min ladunka rahmah, innaka antal-Wahhab",
+        "english": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower."
+    },
+    {
+        "when": "For seeking forgiveness for wronging oneself:",
+        "arabic": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "transliteration": "Rabbana thalamna anfusana wa in lam taghfir lana wa tarhamna lanakunanna minal-khasirin",
+        "english": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers."
+    },
+    {
+        "when": "For forgiveness of parents and believers:",
+        "arabic": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+        "transliteration": "Rabbanaghfir li wa liwalidayya wa lil-mu’minina yawma yaqumul-hisab",
+        "english": "Our Lord, forgive me and my parents and the believers the Day the account is established."
+    },
+    {
+        "when": "For a righteous family and offspring:",
+        "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+        "transliteration": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a‘yunin waj‘alna lil-muttaqina imama",
+        "english": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous."
+    },
+    {
+        "when": "For increase in knowledge:",
+        "arabic": "رَبِّ زِدْنِي عِلْمًا",
+        "transliteration": "Rabbi zidni ‘ilma",
+        "english": "My Lord, increase me in knowledge."
+    },
+    {
+        "when": "For ease of a difficult task:",
+        "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+        "transliteration": "Rabbishrah li sadri wa yassir li amri",
+        "english": "My Lord, expand for me my breast [with assurance] and ease for me my task."
+    },
+    {
+        "when": "When in desperate need of provision:",
+        "arabic": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+        "transliteration": "Rabbi inni lima anzalta ilayya min khayrin faqir",
+        "english": "My Lord, indeed I am, for whatever good You would send down to me, in need."
+    },
+    {
+        "when": "For a blessed landing or arriving:",
+        "arabic": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ",
+        "transliteration": "Rabbi anzilni munzalan mubarakan wa anta khayrul-munzilin",
+        "english": "My Lord, let me land at a blessed landing place, and You are the best to accommodate."
+    },
+    {
+        "when": "For protection from wrongdoers:",
+        "arabic": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
+        "transliteration": "Rabbi najjini wa ahli mimma ya‘malun",
+        "english": "My Lord, save me and my family from [the consequence of] what they do."
+    },
+    {
+        "when": "For righteous offspring:",
+        "arabic": "رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+        "transliteration": "Rabbi hab li min ladunka dhurriyyatan tayyibah, innaka sami‘ud-du‘a",
+        "english": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication."
+    },
+    {
+        "when": "For submission to Allah:",
+        "arabic": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ",
+        "transliteration": "Rabbana waj‘alna muslimayni laka wa min dhurriyyatina ummatan muslimatan lak",
+        "english": "Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You."
+    },
+    {
+        "when": "For placing trust in Allah:",
+        "arabic": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+        "transliteration": "Rabbana ‘alayka tawakkalna wa ilayka anabna wa ilaykal-masir",
+        "english": "Our Lord, upon You we have relied, and to You we have returned, and to You is the destination."
+    },
+    {
+        "when": "The Chief of Forgiveness (Sayyid al-Istighfar):",
+        "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+        "transliteration": "Allahumma Anta Rabbi la ilaha illa Anta, khalaqtani wa ana ‘abduka, wa ana ‘ala ‘ahdika wa wa‘dika mastata‘tu, a‘udhu bika min sharri ma sana‘tu, abu’u laka bini‘matika ‘alayya, wa abu’u laka bidhanbi faghfir li, fa-innahu la yaghfirudh-dhunuba illa Anta",
+        "english": "O Allah, You are my Lord; there is no deity except You. You created me and I am Your servant, and I will abide by Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your favor upon me and I acknowledge my sin, so forgive me, for none forgives sins except You."
+    },
+    {
+        "when": "For protection every morning and evening:",
+        "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "transliteration": "Bismillahil-ladhi la yadurru ma‘as-mihi shay’un fil-ardi wa la fis-sama’i wa Huwas-Sami‘ul-‘Alim",
+        "english": "In the name of Allah with whose name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing."
+    },
+    {
+        "when": "For contentment with Islam:",
+        "arabic": "رَضِيتُ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ نَبِيًّا",
+        "transliteration": "Raditu billahi Rabban wabil-Islami dinan wa bi Muhammadin nabiyya",
+        "english": "I am pleased with Allah as my Lord, with Islam as my religion, and with Muhammad as my Prophet."
+    },
+    {
+        "when": "For seeking relief through Allah's mercy:",
+        "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+        "transliteration": "Ya Hayyu Ya Qayyum bi rahmatika astaghith, aslih li sha’ni kullahu wa la takilni ila nafsi tarfata ‘ayn",
+        "english": "O Ever-Living, O Sustainer, by Your mercy I seek help. Rectify for me all my affairs and do not leave me to myself, even for the blink of an eye."
+    },
+    {
+        "when": "Expiation of an assembly or gathering:",
+        "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+        "transliteration": "Subhanakallahumma wa bihamdika, ash-hadu an la ilaha illa Anta, astaghfiruka wa atubu ilayk",
+        "english": "Glory is to You, O Allah, and praise is to You. I bear witness that there is none worthy of worship but You. I seek Your forgiveness and repent to You."
+    },
+    {
+        "when": "When mounting an animal or vehicle:",
+        "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+        "transliteration": "Subhanal-ladhi sakhkhara lana hadha wa ma kunna lahu muqrinin, wa inna ila Rabbina lamunqalibun",
+        "english": "Glory be to Him who has subjected this to us, and we could not have otherwise subdued it. And indeed we, to our Lord, will surely return."
+    },
+    {
+        "when": "Upon hearing thunder:",
+        "arabic": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ",
+        "transliteration": "Subhanal-ladhi yusabbihur-ra‘du bihamdihi wal-mala’ikatu min khifatih",
+        "english": "Glory is to Him Whom thunder and angels extol from fear of Him."
+    },
+    {
+        "when": "When the wind blows strongly:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيهَا، وَخَيْرَ مَا أُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيهَا، وَشَرِّ مَا أُرْسِلَتْ بِهِ",
+        "transliteration": "Allahumma inni as’aluka khayraha wa khayra ma fiha wa khayra ma ursilat bih, wa a'udhu bika min sharriha wa sharri ma fiha wa sharri ma ursilat bih",
+        "english": "O Allah, I ask You for its goodness, the good within it, and the good it was sent with, and I seek refuge with You from its evil, the evil within it, and from the evil it was sent with."
+    },
+    {
+        "when": "When feeling angry:",
+        "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "transliteration": "A‘udhu billahi minash-shaytanir-rajim",
+        "english": "I seek refuge with Allah against the accursed Satan."
+    },
+    {
+        "when": "Upon visiting the graveyard:",
+        "arabic": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ، أَسْأَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةَ",
+        "transliteration": "As-salamu ‘alaykum ahlid-diyari minal-mu’minin wal-muslimin, wa inna in sha’Allahu bikum lahiqun. As'alullaha lana wa lakumul-‘afiyah",
+        "english": "Peace be upon you all, O inhabitants of the graves, amongst the believers and the Muslims. Indeed we will, if Allah wills, be uniting with you. I ask Allah for well-being for us and for you."
+    },
+    {
+        "when": "When offering condolences:",
+        "arabic": "إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَاصْبِرْ وَاحْتَسِبْ",
+        "transliteration": "Inna lillahi ma akhadha, wa lahu ma a‘ta, wa kullu shay’in ‘indahu bi ajalin musamma, fasbir wahtasib",
+        "english": "Surely, Allah takes what is His, and what He gives is His, and to all things He has appointed a time. So have patience and be rewarded."
+    },
+    {
+        "when": "When entering a village or town:",
+        "arabic": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الْأَرَضِينَ السَّبْعِ وَمَا أَقْلَلْنَ... أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ",
+        "transliteration": "Allahumma rabbas-samawatis-sab‘i wa ma azlalna... as'aluka khayra hadhihil-qaryah",
+        "english": "O Allah, Lord of the seven heavens and all that they envelop, Lord of the seven earths and all that they carry... I ask You for the goodness of this village/town."
+    },
+    {
+        "when": "For insomnia or difficulty sleeping:",
+        "arabic": "اللَّهُمَّ غَارَتِ النُّجُومُ، وَهَدَأَتِ الْعُيُونُ، وَأَنْتَ حَيٌّ قَيُّومٌ لَا تَأْخُذُكَ سِنَةٌ وَلَا نَوْمٌ، يَا حَيُّ يَا قَيُّومُ، أَهْدِئْ لَيْلِي، وَأَنِمْ عَيْنِي",
+        "transliteration": "Allahumma gharatin-nujum wa hada’atil-‘uyun wa anta Hayyun Qayyum, la ta'khudhuka sinatun wa la nawm. Ya Hayyu Ya Qayyum, ahdi' layli wa anim 'ayni",
+        "english": "O Allah, the stars have faded and the eyes have closed, and You are Ever-Living and Sustaining; neither slumber nor sleep overtakes You. O Ever-Living, O Sustaining, calm my night and let my eyes sleep."
+    },
+    {
+        "when": "When fearing people or authorities:",
+        "arabic": "اللَّهُمَّ اكْفِنِيهِمْ بِمَا شِئْتَ",
+        "transliteration": "Allahummakfinihim bima shi't",
+        "english": "O Allah, suffice me against them however You wish."
+    },
+    {
+        "when": "When breaking fast at someone's house:",
+        "arabic": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+        "transliteration": "Aftara ‘indakumus-sa’imun, wa akala ta‘amakumul-abrar, wa sallat ‘alaykumul-mala’ikah",
+        "english": "May the fasting break their fast in your home, and may the obedient and pious eat your food, and may the angels send prayers upon you."
+    },
+    {
+        "when": "Before intimate relations:",
+        "arabic": "بِسْمِ اللَّهِ اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
+        "transliteration": "Bismillahi, Allahumma jannibnash-shaytana wa jannibish-shaytana ma razaqtana",
+        "english": "In the Name of Allah. O Allah, keep the devil away from us and keep the devil away from what You have blessed us with."
+    },
+    {
+        "when": "When placing the deceased in the grave:",
+        "arabic": "بِسْمِ اللَّهِ وَعَلَى سُنَّةِ رَسُولِ اللَّهِ",
+        "transliteration": "Bismillahi wa ‘ala sunnati rasulillah",
+        "english": "In the Name of Allah and according to the Sunnah of the Messenger of Allah."
+    },
+    {
+        "when": "When one's mount or vehicle stumbles/fails:",
+        "arabic": "بِسْمِ اللَّهِ",
+        "transliteration": "Bismillah",
+        "english": "In the Name of Allah."
+    },
+    {
+        "when": "When seeing the first fruit of the season:",
+        "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِينَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا",
+        "transliteration": "Allahumma barik lana fi thamarina wa barik lana fi madinatina, wa barik lana fi sa'ina, wa barik lana fi muddina",
+        "english": "O Allah, bless us in our fruits, bless us in our city, bless us in our Sa' (a measure) and bless us in our Mudd (a measure)."
+    },
+    {
+        "when": "Upon completing Wudu (Ablution) completely:",
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+        "transliteration": "Allahummaj‘alni minat-tawwabin waj‘alni minal-mutatahhireen",
+        "english": "O Allah, make me of those who return to You often in repentance and make me of those who remain clean and pure."
+    },
+    {
+        "when": "Upon hearing a rooster crow:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+        "transliteration": "Allahumma inni as’aluka min fadlik",
+        "english": "O Allah, I ask You from Your favor."
+    },
+    {
+        "when": "During Prostration (Sujud):",
+        "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+        "transliteration": "Subhana Rabbiyal-A‘la",
+        "english": "Glory is to my Lord, the Most High."
+    },
+    {
+        "when": "During Bowing (Ruku):",
+        "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+        "transliteration": "Subhana Rabbiyal-‘Adhim",
+        "english": "Glory is to my Lord, the Magnificent."
+    },
+    {
+        "when": "Between the two prostrations in prayer:",
+        "arabic": "رَبِّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَارْزُقْنِي",
+        "transliteration": "Rabbighfir li, warhamni, wahdini, wajburni, warzuqni",
+        "english": "My Lord, forgive me, have mercy on me, guide me, console me, and grant me provision."
+    },
+    {
+        "when": "Tashahhud (Sitting in prayer):",
+        "arabic": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ...",
+        "transliteration": "At-tahiyyatu lillahi was-salawatu wat-tayyibat, as-salamu 'alayka ayyuhan-Nabiyyu wa rahmatullahi wa barakatuh...",
+        "english": "All greetings of humility are for Allah, and all prayers and goodness. Peace be upon you, O Prophet, and the mercy of Allah and His blessings..."
+    },
+    {
+        "when": "Salawat (Sending blessings on the Prophet):",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+        "transliteration": "Allahumma salli ‘ala Muhammadin wa ‘ala ali Muhammad, kama sallayta 'ala Ibrahima wa 'ala ali Ibrahim, innaka Hamidun Majid",
+        "english": "O Allah, send prayers upon Muhammad and upon the family of Muhammad, as You sent prayers upon Ibrahim and upon the family of Ibrahim; You are indeed Praiseworthy and Glorious."
+    },
+    {
+        "when": "After concluding the prayer (Taslim):",
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir",
+        "english": "None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things."
+    },
+    {
+        "when": "Qunut in Witr prayer:",
+        "arabic": "اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ...",
+        "transliteration": "Allahummahdini fiman hadayt, wa 'afini fiman 'afayt, wa tawallani fiman tawallayt...",
+        "english": "O Allah, guide me among those You have guided, pardon me among those You have pardoned, turn to me in friendship among those You have turned to in friendship..."
+    },
+    {
+        "when": "After the Witr prayer:",
+        "arabic": "سُبْحَانَ الْمَلِكِ الْقُدُّوسِ",
+        "transliteration": "Subhanal-Malikil-Quddus",
+        "english": "Glory is to the King, the Holy."
+    },
+    {
+        "when": "For protection against hidden Shirk:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+        "transliteration": "Allahumma inni a‘udhu bika an ushrika bika wa ana a‘lam, wa astaghfiruka lima la a‘lam",
+        "english": "O Allah, I seek refuge in You from knowingly associating partners with You, and I ask Your forgiveness for that which I do not know."
+    },
+    {
+        "when": "For protection against the loss of blessings:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
+        "transliteration": "Allahumma inni a‘udhu bika min zawali ni‘matik, wa tahawwuli ‘afiyatik, wa fuja'ati niqmatik, wa jami'i sakhatik",
+        "english": "O Allah, I seek refuge in You from the withholding of Your blessing, the loss of the well-being You granted me, the suddenness of Your vengeance, and all of Your anger."
+    },
+    {
+        "when": "When praying for the deceased (Janazah):",
+        "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعَافِهِ، وَاعْفُ عَنْهُ...",
+        "transliteration": "Allahummaghfir lahu warhamhu, wa 'afihi, wa'fu 'anhu...",
+        "english": "O Allah, forgive him and have mercy on him, excuse him and pardon him..."
+    },
+    {
+        "when": "For seeking martyrdom:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الشَّهَادَةَ فِي سَبِيلِكَ، وَاجْعَلْ مَوْتِي فِي بَلَدِ رَسُولِكَ",
+        "transliteration": "Allahumma inni as’alukash-shahadata fi sabilik, waj'al mawti fi baladi rasulik",
+        "english": "O Allah, I ask You for martyrdom in Your path, and make my death in the city of Your Messenger."
+    },
+    {
+        "when": "When a loss or misfortune occurs:",
+        "arabic": "قَدَّرَ اللَّهُ وَمَا شَاءَ فَعَلَ",
+        "transliteration": "Qaddarallahu wa ma sha’a fa‘ala",
+        "english": "Allah has decreed and what He wills, He does."
+    },
+    {
+        "when": "For comprehensive well-being (Afiyah):",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+        "transliteration": "Allahumma inni as’alukal-‘afwa wal-‘afiyata fid-dunya wal-akhirah",
+        "english": "O Allah, I ask You for forgiveness and well-being in this world and the Hereafter."
+    },
+    {
+        "when": "For guidance, piety, chastity, and wealth:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى، وَالتُّقَى، وَالْعَفَافَ، وَالْغِنَى",
+        "transliteration": "Allahumma inni as’alukal-huda wat-tuqa wal-‘afafa wal-ghina",
+        "english": "O Allah, I ask You for guidance, piety, chastity, and self-sufficiency (wealth)."
+    },
+    {
+        "when": "When wearing clothes (General):",
+        "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا الثَّوْبَ وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+        "transliteration": "Alhamdulillahil-ladhi kasani hadhath-thawba wa razaqanihi min ghayri hawlin minni wa la quwwah",
+        "english": "All Praise is to Allah who has clothed me with this garment and provided it for me, with no power nor might from myself."
+    },
+    {
+        "when": "When taking off clothes:",
+        "arabic": "بِسْمِ اللَّهِ",
+        "transliteration": "Bismillah",
+        "english": "In the Name of Allah."
+    },
+    {
+        "when": "Asking for Paradise three times:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ",
+        "transliteration": "Allahumma inni as’alukal-Jannah",
+        "english": "O Allah, I ask You for Paradise."
+    },
+    {
+        "when": "Seeking refuge from Hellfire three times:",
+        "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+        "transliteration": "Allahumma ajirni minan-Nar",
+        "english": "O Allah, save me from the Fire."
+    },
+    {
+        "when": "For the love of Allah and those who love Him:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُبَّكَ وَحُبَّ مَنْ يُحِبُّكَ، وَالْعَمَلَ الَّذِي يُبَلِّغُنِي حُبَّكَ",
+        "transliteration": "Allahumma inni as’aluka hubbaka wa hubba man yuhibbuk, wal-'amalal-ladhi yuballighuni hubbak",
+        "english": "O Allah, I ask You for Your love, the love of those who love You, and the deeds that will cause me to attain Your love."
+    },
+    {
+        "when": "Expiation of minor sins (Subhanallah):",
+        "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+        "transliteration": "Subhanallahi wa bihamdihi, subhanallahil-‘adhim",
+        "english": "Glory is to Allah and with His Praise. Glory is to Allah, the Great."
+    },
+    {
+        "when": "Words heavy on the scale:",
+        "arabic": "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+        "transliteration": "Kalimatani khafifatani ‘alal-lisan, thaqilatani fil-mizan, habibatani ilar-Rahman: Subhanallahi wa bihamdihi, subhanallahil-‘adhim",
+        "english": "There are two statements that are light for the tongue to remember, heavy in the Scales and are dear to the Merciful: Glory is to Allah and with His Praise. Glory is to Allah, the Great."
+    },
+    {
+        "when": "A treasure from the treasures of Paradise:",
+        "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "transliteration": "La hawla wa la quwwata illa billah",
+        "english": "There is no might and no power except with Allah."
+    },
+    {
+        "when": "When someone does you a favor:",
+        "arabic": "بَارَكَ اللَّهُ فِيكَ",
+        "transliteration": "Barakallahu fik",
+        "english": "May Allah bless you."
+    },
+    {
+        "when": "When responding to 'How are you?':",
+        "arabic": "الْحَمْدُ لِلَّهِ",
+        "transliteration": "Alhamdulillah",
+        "english": "All praise is to Allah."
+    },
+    {
+        "when": "If you forget to say Bismillah before eating:",
+        "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+        "transliteration": "Bismillahi awwalahu wa akhirahu",
+        "english": "In the Name of Allah, at the beginning and at the end."
+    },
+    {
+        "when": "When drinking milk:",
+        "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ",
+        "transliteration": "Allahumma barik lana fihi wa zidna minhu",
+        "english": "O Allah, bless us in it and give us more of it."
+    },
+    {
+        "when": "When drinking Zamzam water:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا وَاسِعًا، وَشِفَاءً مِنْ كُلِّ دَاءٍ",
+        "transliteration": "Allahumma inni as’aluka ‘ilman nafi‘an wa rizqan wasi‘an wa shifa’an min kulli da’",
+        "english": "O Allah, I ask You for beneficial knowledge, abundant provision, and a cure from every illness."
+    },
+    {
+        "when": "When looking at the sky/creation:",
+        "arabic": "رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+        "transliteration": "Rabbana ma khalaqta hadha batilan subhanaka faqina ‘adhaban-nar",
+        "english": "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire."
+    },
+    {
+        "when": "To relieve deep sorrow and anxiety:",
+        "arabic": "اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ...",
+        "transliteration": "Allahumma inni ‘abduk, ibnu ‘abdik, ibnu amatik, nasiyati bi yadik, madin fiyya hukmuk, 'adlun fiyya qada'uk...",
+        "english": "O Allah, I am Your slave, son of Your male slave, son of Your female slave. My forelock is in Your hand, Your command over me is forever executed, and Your decree over me is just..."
+    },
+    {
+        "when": "When facing an enemy or hostile group:",
+        "arabic": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+        "transliteration": "Allahumma inna naj‘aluka fi nuhurihim wa na‘udhu bika min shururihim",
+        "english": "O Allah, we place You before them and we seek refuge in You from their evils."
+    },
+    {
+        "when": "Seeking refuge from a bad neighbor:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَارِ السُّوءِ فِي دَارِ الْمُقَامَةِ",
+        "transliteration": "Allahumma inni a‘udhu bika min jaris-su’i fi daril-muqamah",
+        "english": "O Allah, I seek refuge in You from a bad neighbor in the permanent abode."
+    },
+    {
+        "when": "When someone praises you:",
+        "arabic": "اللَّهُمَّ اغْفِرْ لِي مَا لَا يَعْلَمُونَ، وَلَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَاجْعَلْنِي خَيْرًا مِمَّا يَظُنُّونَ",
+        "transliteration": "Allahummaghfir li ma la ya‘lamun, wa la tu’akhidhni bima yaqulun, waj'alni khayran mimma yadhunnun",
+        "english": "O Allah, forgive me for what they do not know, do not hold me accountable for what they say, and make me better than what they think."
+    },
+    {
+        "when": "Upon waking up suddenly in the night:",
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ... سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ...",
+        "transliteration": "La ilaha illallahu wahdahu la sharika lah... Subhanallah, walhamdulillah...",
+        "english": "There is none worthy of worship but Allah alone, Who has no partner... Glory is to Allah, and all praise is to Allah..."
+    },
+    {
+        "when": "When the sun rises:",
+        "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَقَالَنَا يَوْمَنَا هَذَا وَلَمْ يُهْلِكْنَا بِذُنُوبِنَا",
+        "transliteration": "Alhamdulillahil-ladhi aqalana yawmana hadha wa lam yuhlikna bidhunubina",
+        "english": "Praise is to Allah who has kept us alive this day of ours, and has not destroyed us because of our sins."
+    },
+    {
+        "when": "Upon seeing someone you love or good news:",
+        "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+        "transliteration": "Alhamdulillahil-ladhi bini‘matihi tatimmus-salihat",
+        "english": "Praise is to Allah by Whose grace good deeds are completed."
+    },
+    {
+        "when": "Upon seeing something you dislike or bad news:",
+        "arabic": "الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
+        "transliteration": "Alhamdulillah ‘ala kulli hal",
+        "english": "Praise is to Allah in every circumstance."
+    },
+    {
+        "when": "Asking for an easy reckoning:",
+        "arabic": "اللَّهُمَّ حَاسِبْنِي حِسَابًا يَسِيرًا",
+        "transliteration": "Allahumma hasibni hisaban yasira",
+        "english": "O Allah, grant me an easy reckoning."
+    },
+    {
+        "when": "Upon reaching forty years of age:",
+        "arabic": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ...",
+        "transliteration": "Rabbi awzi‘ni an ashkura ni‘matakal-lati an‘amta ‘alayya wa ‘ala walidayya...",
+        "english": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents..."
+    },
+    {
+        "when": "For protecting wealth, family, and property:",
+        "arabic": "مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "transliteration": "Mashallah la quwwata illa billah",
+        "english": "As Allah wills. There is no power except with Allah."
+    },
+    {
+        "when": "For victory and divine help:",
+        "arabic": "نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ",
+        "transliteration": "Nasrun minallahi wa fathun qarib",
+        "english": "Victory from Allah and an imminent conquest."
+    },
+    {
+        "when": "For complete light on the Day of Judgment:",
+        "arabic": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "Rabbana atmim lana nurana waghfir lana innaka ‘ala kulli shay’in qadir",
+        "english": "Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent."
+    },
+    {
+        "when": "For escaping oppressors:",
+        "arabic": "رَبَّنَا نَجِّنَا مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "transliteration": "Rabbana najjina minal-qawmidh-dhalimin",
+        "english": "Our Lord, save us from the wrongdoing people."
+    },
+    {
+        "when": "Upon closing the eyes of the deceased:",
+        "arabic": "اللَّهُمَّ اغْفِرْ لِـ (فلان) وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ...",
+        "transliteration": "Allahummaghfir li [name] warfa‘ darajatahu fil-mahdiyyin...",
+        "english": "O Allah, forgive [Name] and elevate his station among those who are guided..."
+    },
+    {
+        "when": "Short condolences:",
+        "arabic": "أَعْظَمَ اللَّهُ أَجْرَكَ، وَأَحْسَنَ عَزَاءَكَ، وَغَفَرَ لِمَيِّتِكَ",
+        "transliteration": "A‘dhamallahu ajraka, wa ahsana ‘aza’aka, wa ghafara limayyitik",
+        "english": "May Allah magnify your reward, make better your condolence, and forgive your deceased."
+    },
+    {
+        "when": "For seeking rain (Istisqa):",
+        "arabic": "اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا، مَرِيئًا نَافِعًا، غَيْرَ ضَارٍّ...",
+        "transliteration": "Allahumma asqina ghaythan mughithan mari'an nafi'an ghayra darrin...",
+        "english": "O Allah, shower upon us abundant rain, beneficial, not harmful..."
+    },
+    {
+        "when": "To divert heavy, destructive rain:",
+        "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اللَّهُمَّ عَلَى الْآكَامِ وَالظِّرَابِ...",
+        "transliteration": "Allahumma hawalayna wa la ‘alayna, Allahumma ‘alal-akami waz-zirabi...",
+        "english": "O Allah, around us and not upon us. O Allah, on the plateaus, the hills..."
+    },
+    {
+        "when": "Seeking refuge from the evil of Satan's whispers:",
+        "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ",
+        "transliteration": "A'udhu billahi minash-shaytanir-rajimi min hamzihi wa nafkhihi wa nafthih",
+        "english": "I seek refuge in Allah from the accursed Satan, from his madness, his pride, and his poetry."
+    },
+    {
+        "when": "Asking for a good death (Khatimah):",
+        "arabic": "اللَّهُمَّ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+        "transliteration": "Allahumma tawaffani musliman wa alhiqni bis-salihin",
+        "english": "O Allah, cause me to die a Muslim and join me with the righteous."
+    },
+    {
+        "when": "Upon slaughtering an animal for food/Eid:",
+        "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ، اللَّهُمَّ مِنْكَ وَلَكَ",
+        "transliteration": "Bismillahi wallahu Akbar, Allahumma minka wa lak",
+        "english": "In the Name of Allah, and Allah is the Greatest. O Allah, it is from You and to You."
+    },
+    {
+        "when": "When looking at the Kaaba:",
+        "arabic": "اللَّهُمَّ زِدْ هَذَا الْبَيْتَ تَشْرِيفًا وَتَعْظِيمًا وَتَكْرِيمًا وَمَهَابَةً",
+        "transliteration": "Allahumma zid hadhal-bayta tashrifan wa ta‘dhiman wa takriman wa mahabatan",
+        "english": "O Allah, increase this House in honor, greatness, reverence, and awe."
+    },
+    {
+        "when": "Upon approaching Mount Safa and Marwah:",
+        "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ، أَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ",
+        "transliteration": "Innas-Safa wal-Marwata min sha‘a’irillah, abda'u bima bada'allahu bih",
+        "english": "Indeed, As-Safa and Al-Marwah are among the symbols of Allah. I begin with what Allah began with."
+    },
+    {
+        "when": "The best supplication for the Day of Arafah:",
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir",
+        "english": "None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things."
+    },
+    {
+        "when": "When throwing pebbles at the Jamarat (Hajj):",
+        "arabic": "اللَّهُ أَكْبَرُ",
+        "transliteration": "Allahu Akbar",
+        "english": "Allah is the Greatest."
+    },
+    {
+        "when": "When drinking plain water:",
+        "arabic": "الْحَمْدُ لِلَّهِ الَّذِي جَعَلَهُ عَذْبًا فُرَاتًا بِرَحْمَتِهِ وَلَمْ يَجْعَلْهُ مِلْحًا أُجَاجًا بِذُنُوبِنَا",
+        "transliteration": "Alhamdulillahil-ladhi ja‘alahu ‘adhban furatan birrahmatihi wa lam yaj‘alhu milhan ujajan bidhunubina",
+        "english": "All praise is due to Allah, Who made it sweet and thirst-quenching by His mercy, and did not make it salty and bitter because of our sins."
+    },
+    {
+        "when": "Greeting upon entering an empty home:",
+        "arabic": "السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ",
+        "transliteration": "As-salamu ‘alayna wa ‘ala ‘ibadillahis-salihin",
+        "english": "Peace be upon us and upon the righteous servants of Allah."
+    },
+    {
+        "when": "Seeking beneficial knowledge, provision, and deeds:",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+        "transliteration": "Allahumma inni as'aluka 'ilman nafi'an, wa rizqan tayyiban, wa 'amalan mutaqabbalan",
+        "english": "O Allah, I ask You for knowledge that is of benefit, a good provision, and deeds that will be accepted."
+    },
+    {
+        "when": "To be guided to the best character:",
+        "arabic": "اللَّهُمَّ اهْدِنِي لِأَحْسَنِ الْأَخْلَاقِ لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا لَا يَصْرِفُ عَنِّي سَيِّئَهَا إِلَّا أَنْتَ",
+        "transliteration": "Allahummahdini liahsanil-akhlaq la yahdi liahsaniha illa Anta, wasrif 'anni sayyi'aha la yasrifu 'anni sayyi'aha illa Anta",
+        "english": "O Allah, guide me to the best of deeds and the best of morals, as none can guide to the best of them but You. And save me from bad deeds and morals, as none can save from them but You."
+    },
+    {
+        "when": "Seeking refuge from evil character and desires:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ مُنْكَرَاتِ الْأَخْلَاقِ، وَالْأَعْمَالِ، وَالْأَهْوَاءِ",
+        "transliteration": "Allahumma inni a'udhu bika min munkaratil-akhlaq wal-a'mal wal-ahwa'",
+        "english": "O Allah, I seek refuge in You from bad character, evil actions, and evil desires."
+    },
+    {
+        "when": "For protection from the evil of one's own actions:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ",
+        "transliteration": "Allahumma inni a'udhu bika min sharri ma 'amiltu wa min sharri ma lam a'mal",
+        "english": "O Allah, I seek refuge in You from the evil of what I have done and from the evil of what I have not done."
+    },
+    {
+        "when": "Seeking refuge from a severe trial and misery:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ، وَدَرَكِ الشَّقَاءِ، وَسُوءِ الْقَضَاءِ، وَشَمَاتَةِ الْأَعْدَاءِ",
+        "transliteration": "Allahumma inni a'udhu bika min jahdil-bala', wa darakish-shaqa', wa su'il-qada', wa shamatatil-a'da'",
+        "english": "O Allah, I seek refuge in You from the difficulties of severe calamities, having an evil end, a bad fate, and from the malicious joy of enemies."
+    },
+    {
+        "when": "Seeking refuge in Allah's pleasure from His anger:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+        "transliteration": "Allahumma inni a'udhu bi ridaka min sakhatik, wa bimu'afatika min 'uqubatik, wa a'udhu bika minka, la uhsi thana'an 'alayk, anta kama athnayta 'ala nafsik",
+        "english": "O Allah, I seek refuge in Your pleasure from Your anger, and in Your forgiveness from Your punishment. I seek refuge in You from You. I cannot praise You enough; You are as You have praised Yourself."
+    },
+    {
+        "when": "Seeking refuge from laziness, old age, and heavy debt:",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ، وَالْهَرَمِ، وَالْمَأْثَمِ، وَالْمَغْرَمِ",
+        "transliteration": "Allahumma inni a'udhu bika minal-kasal wal-haram wal-ma'tham wal-maghram",
+        "english": "O Allah, I seek refuge in You from laziness, geriatric old age, sin, and heavy debt."
+    },
+    {
+        "when": "A morning supplication for life and death:",
+        "arabic": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ النُّشُورُ",
+        "transliteration": "Allahumma bika asbahna wa bika amsayna wa bika nahya wa bika namut wa ilaykan-nushur",
+        "english": "O Allah, by Your leave we have reached the morning and by Your leave we have reached the evening, by Your leave we live and die, and unto You is our resurrection."
+    },
+    {
+        "when": "An evening supplication for life and death:",
+        "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ الْمَصِيرُ",
+        "transliteration": "Allahumma bika amsayna wa bika asbahna wa bika nahya wa bika namut wa ilaykal-masir",
+        "english": "O Allah, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die, and unto You is our return."
+    },
+    {
+        "when": "At the time of severe distress (Dua of Yunus):",
+        "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+        "transliteration": "La ilaha illa Anta subhanaka inni kuntu minadh-dhalimin",
+        "english": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers."
+    },
+    {
+        "when": "When feeling doubtful in faith:",
+        "arabic": "آمَنْتُ بِاللَّهِ وَرُسُلِهِ",
+        "transliteration": "Amantu billahi wa rusulih",
+        "english": "I believe in Allah and His Messengers."
+    },
+    {
+        "when": "For protection against the Antichrist (Dajjal):",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+        "transliteration": "Allahumma inni a'udhu bika min 'adhabil-qabri, wa min 'adhabi jahannam, wa min fitnatil-mahya wal-mamat, wa min sharri fitnatil-masihid-dajjal",
+        "english": "O Allah, I seek refuge in You from the punishment of the grave, from the punishment of Hellfire, from the trials of life and death, and from the evil of the trial of the False Messiah (Dajjal)."
+    },
+    {
+        "when": "When visiting a sick person (Seven times):",
+        "arabic": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+        "transliteration": "As'alullahal-'Adhima Rabbal-'Arshil-'Adhimi an yashfiyaka",
+        "english": "I ask Allah the Mighty, the Lord of the Mighty Throne, to cure you. (Recite seven times)"
+    },
+    {
+        "when": "Seeking guidance to the straight path (Daily Prayer):",
+        "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ، صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "transliteration": "Ihdinas-siratal-mustaqim, siratal-ladhina an'amta 'alayhim ghayril-maghdubi 'alayhim walad-dallin",
+        "english": "Guide us to the straight path - The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
     }
 ]
