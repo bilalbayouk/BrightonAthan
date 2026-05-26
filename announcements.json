@@ -1,5 +1,12 @@
 [
   {
+    "id": "default-2",
+    "title": "Eid Prayer Announcement",
+    "message": "In Brighton UK, Eid prayer will take place in Preston Park BN1 6SD at 9am BST. 🌳",
+    "date": "2026-05-26",
+    "type": "event"
+  },
+  {
     "id": "default-1",
     "title": "Welcome to Athanly",
     "message": "Stay tuned for updates from your community!",
